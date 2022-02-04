@@ -71,7 +71,7 @@ Insightful LinkedIn group “[SAP Architects on Azure](https://www.linkedin.com/
 
 <img src="img/members/martin-raepple.jpg" width="23%"></img> <img src="img/members/bartosz.jpg" width="23%"></img> <img src="img/members/harut.jpg" width="23%"></img> <img src="img/members/max.png" width="23%"></img> <img src="img/members/Holger.jpg" width="23%"></img> <img src="img/members/roman.jpg" width="23%"></img> <img src="img/members/christian.lechner.png" width="23%"></img> <img src="img/members/martin.jpg" width="23%"></img>
 
-Find our blog post rooster grouped by topic [here](blog-rooster.md).
+Find our blog post rooster grouped by topic [here](rooster/blog-rooster.md).
 
 ## Customer Engagement Initiatives and public BETAs
 
