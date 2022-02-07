@@ -22,19 +22,27 @@ The Azure Friday session above gave you a glimpse into the world of combining SA
 
 You want to learn more about the basics of the technical foundation behind SAP and Azure? 
 
-**Level 1️⃣ - Let's start with an overview of of [Azure's Global Infrastructure (microsoft.com)](https://infrastructuremap.microsoft.com/). **
+**Level 1️⃣ - Let's start with an overview of of [Azure's Global Infrastructure (microsoft.com)](https://infrastructuremap.microsoft.com/).**
 
 <p align="center">
   <img src="img/global-infra-small.png"/>
 </p>
 
+
+
+
 **Level 2️⃣ - Let's get an overview what services are available on Azure by taking a look at the [Azure Services Overview (azurecharts.com)](https://azurecharts.com/overview).**
 
 ![Azure services](img/global-services.png)
 
+
+
 **Level 3️⃣ - Now let's dive a bit more into the combination of SAP and Microsoft namely the [SAP solutions on Azure | Microsoft Azure](https://azure.microsoft.com/solutions/sap/azure-solutions/#solution-architectures).**
 
 ![SAP Solution Architectures](img/sap-solution-architectures.png)
+
+
+
 
 **Level 4️⃣ - You want more? We have you covered by two more valuable resources:**
 
