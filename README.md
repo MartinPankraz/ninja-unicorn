@@ -22,7 +22,7 @@ The Azure Friday session above gave you a glimpse into the world of combining SA
 
 You want to learn more about the basics of the technical foundation behind SAP and Azure? 
 
-Level 1️⃣ - Let's start with an overview of of [Azure's Global Infrastructure (microsoft.com)](https://infrastructuremap.microsoft.com/).
+**Level 1️⃣ - Let's start with an overview of of [Azure's Global Infrastructure (microsoft.com)](https://infrastructuremap.microsoft.com/).**
 
 <p align="center">
   <img src="img/global-infra-small.png"/>
