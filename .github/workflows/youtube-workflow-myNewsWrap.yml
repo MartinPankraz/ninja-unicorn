@@ -1,0 +1,19 @@
+name: Latest YouTube Videos from myNewsWrap
+on:
+  schedule:
+    - cron: '0 12 * * *' # Run once a day at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube channel of myNewsWrap
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBEMNW"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCeaAZSNyP3MbyGe_1KKZADA"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          max_post_count: 1
+          template: '<table><tr><td><a href="$url"><img width="100%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td></tr><tr>$newline<td><a href="$url">$title</a></td></tr></table>'

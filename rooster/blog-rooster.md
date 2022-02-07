@@ -1,7 +1,5 @@
 # Blog rooster
 
-[HOME](../README.md)
-
 ## SingleSignOn
 
 ## API Integration
@@ -11,3 +9,5 @@
 ## Infrastructure
 
 ## Business Technology Platform
+
+[🏠 HOME](../README.md)
