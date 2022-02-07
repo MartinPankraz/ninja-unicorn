@@ -86,6 +86,10 @@ YouTube is of course one source for collecting information. There are two format
 
 * Famous unofficial [SAP + Microsoft YouTube Channel](https://www.youtube.com/c/SAPonAzure) hosted by [Holger Bruchelt](https://people.sap.com/hobruche).
 
+Latest edition:
+
+<!-- YOUTUBESOA:START --><!-- YOUTUBESOA:END -->
+
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
 Latest edition:
