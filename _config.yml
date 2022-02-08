@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-unicorn.png
+avatar: https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
