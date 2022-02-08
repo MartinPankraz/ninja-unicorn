@@ -104,7 +104,7 @@ LinkedIn is another source we like to bring to your attention namely the insight
 
 ### Blog Posts
 
-Find our blog post rooster grouped by topic [here](rooster/blog-rooster.md).
+Find our searchable blog post gallery grouped by topic [here](https://martinpankraz.github.io/ninja-unicorn/).
 
 ## 📢 Customer Engagement Initiatives and public BETAs
 
@@ -113,7 +113,7 @@ Equally important for your future endeavour with SAP and Microsoft are Customer 
 * [Inviting you: Register soon to explore your event-driven pathway between SAP and Microsoft Azure | SAP Blogs](https://blogs.sap.com/2021/10/08/inviting-you-register-soon-to-explore-your-event-driven-pathway-between-sap-and-microsoft-azure/)
 * [SAP Private Link Service (BETA) is Available | SAP Blogs](https://blogs.sap.com/2021/06/28/sap-private-link-service-beta-is-available/)
 
-## 🦸 From left to right and top to bottom
+## 🦸 Meet the community members
 
 Last but not least, here we go with a list of contributors (in alphabetical order of first name)
 
