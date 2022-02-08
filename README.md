@@ -102,7 +102,7 @@ Latest edition:
 
 LinkedIn is another source we like to bring to your attention namely the insightful LinkedIn group [![Linkedin: SAP Architects on Azure](https://img.shields.io/badge/-SAP%20Architects%20on%20Azure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/9055223/)](https://www.linkedin.com/groups/9055223/) owned by [Denys van Kempen](https://people.sap.com/denys.kempen).
 
-### Blog Posts
+### 📰 Blog Posts
 
 Find our searchable blog post gallery grouped by topic [here](https://martinpankraz.github.io/ninja-unicorn/).
 
