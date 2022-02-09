@@ -1,5 +1,5 @@
 
-name: 'Automatic build'
+name: 'Automatic build and deploy to GH Pages'
 on:
   push:
     branches:
