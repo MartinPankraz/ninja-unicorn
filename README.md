@@ -3,6 +3,10 @@
 - [Jekyll docs](https://github.com/jekyll/jekyll)
 - [Theme source](https://chirpy.cotes.page/posts/getting-started/#usage)
 
+## Adding content
+
+Please check existing categories (note parent-child relationship) and tags to keep the search meaningful.
+
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
