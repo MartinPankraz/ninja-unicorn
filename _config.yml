@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://martinpankraz.github.io/ninja-unicorn/'
 
 github:
-  username: MartinPankraz             # change to your github username
+  username: MartinPankraz/ninja-unicorn             # change to your github username
 
 twitter:
   username: martinpankraz            # change to your twitter username

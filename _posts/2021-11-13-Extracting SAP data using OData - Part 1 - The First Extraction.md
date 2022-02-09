@@ -1,9 +1,10 @@
 ---
 title: Extracting SAP data using OData - Part 1 - The First Extraction
 origurl: https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/extracting-sap-data-using-odata-part-1-the-first-extraction/ba-p/2841635
+medium: blog #blog, github repos, linkedIn article, partner page
 date: 2021-11-13 09:00:00 +/0100
-categories: [DATA_EXTRACTION, SYNAPSE]
-tags: [getting-started,ODATA]     # TAG names should always be lowercase
+categories: [DATA_EXTRACTION, SYNAPSE] # category should be a topic and sub-category primary product
+tags: [getting-started,odata]     # TAG names should always be lowercase
 
 author:
   name: Bartosz Jarkowski

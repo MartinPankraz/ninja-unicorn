@@ -8,7 +8,7 @@
 
 set -eu
 
-PAGES_BRANCH="pages"
+PAGES_BRANCH="gh-pages"
 
 SITE_DIR="_site"
 
@@ -20,7 +20,7 @@ _no_pages_branch=false
 
 _backup_dir="$(mktemp -d)"
 
-_baseurl=""
+_baseurl="/ninja-unicorn"
 
 help() {
   echo "Build, test and then deploy the site content to 'origin/<pages_branch>'"
