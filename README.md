@@ -1,5 +1,7 @@
 # How to get started with SAP and Microsoft integration scenarios
 
+>🚀QUICK link to community [blog gallery](https://martinpankraz.github.io/ninja-unicorn/)
+
 This repository contains everything you need to learn about Microsoft + SAP joint scenarios and complements the SAP community posts, SAP+Microsoft YouTube Channel, webcasts and open-source contributions on GitHub made by an amazing group of contributors!
 
 Furthermore, you will learn about the latest community efforts, BETAs and announcements.
@@ -74,7 +76,7 @@ Now you have seen enough and want to make your hands dirty? Good news, you can d
 | The perfect start and a **must-see** | [Building Applications on SAP BTP with Microsoft Services \| openSAP](https://open.sap.com/courses/btpma1) |
 | SAP Discovery Center Missions providing use-cases for combing BTP and Microsoft Azure services | [Integrate Azure Data Explorer and SAP Data Warehouse Cloud](https://discovery-center.cloud.sap/missiondetail/3433/3473/)<br><br>[Establish security workflow between SAP and Microsoft apps (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3232/3236/)<br><br>[Extend your business workflow with Microsoft Teams & Outlook (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3674/3717/) |
 
->> 📝 Tip - [openSAP courses](https://open.sap.com/) guide you through the journey with lectures and assignments to foster learning whereas Discovery Center Missions focus more on the correct deployment of a solution.
+> 📝 Tip - [openSAP courses](https://open.sap.com/) guide you through the journey with lectures and assignments to foster learning whereas Discovery Center Missions focus more on the correct deployment of a solution.
 
 ## 🧑‍🤝‍🧑 Meet the community
 
