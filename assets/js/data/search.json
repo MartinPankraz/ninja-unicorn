@@ -1,17 +1,31 @@
 ---
-layout: compress
+layout: none
 ---
-
 [
   {% for post in site.posts %}
-  {
-    "title": "{{ post.title | escape }}",
-    "url": "{{ post.url | relative_url }}",
-    "categories": "{{ post.categories | join: ', '}}",
-    "tags": "{{ post.tags | join: ', ' }}",
-    "date": "{{ post.date }}",
-    {% include no-linenos.html content=post.content %}
-    "snippet": "{{ content | strip_html | strip_newlines | remove_chars | escape | replace: '\', '\\\\' }}"
-  }{% unless forloop.last %},{% endunless %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "author": "{{ post.author.name }}",
+      "authorlink": "{{ post.author.link }}",
+      "categories": "{{ post.categories | join: ', '}}",
+      "tags": "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ post.origurl }}",
+      "date"     : "{{ post.date }}",
+      "content"  : "{{ post.content | strip_html | strip_newlines }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% for page in site.pages %}
+   {
+     {% if page.title != nil %}
+        "title"    : "{{ page.title | escape }}",
+        "author": "{{ post.author.name }}",
+        "category" : "{{ page.category }}",
+        "tags"     : "{{ page.tags | join: ', ' }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "date"     : "{{ page.date }}",
+        "content"  : "{{ page.content | strip_html | strip_newlines }}"
+     {% endif %}
+   } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

@@ -1,0 +1,55 @@
+<!--
+  Jekyll Simple Search loader
+  See: <https://github.com/christian-fei/Simple-Jekyll-Search>
+-->
+
+{% capture result_elem %}
+<ul>
+  <a href="{url}">{title}</a> by {author}
+  <div class="post-meta d-flex flex-column flex-sm-row text-muted mt-1 mb-1">
+    {date} {categories} {tags}
+  </div>
+</ul>
+{% endcapture %}
+
+{% capture not_found %}<p class="mt-5">{{ site.data.locales[lang].search.no_results }}</p>{% endcapture %}
+
+<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
+
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('search-results'),
+  json: '{{ '/assets/js/data/search.json' | relative_url }}',
+  searchResultTemplate: '{{ result_elem | strip_newlines }}',
+  noResultsText: '{{ not_found }}',
+  debounceTime: 500,
+  limit: 20,
+  templateMiddleware: function(prop, value, template) {
+    if (prop === 'categories') {
+      if (value === '') {
+        return `${value}`;
+      } else {
+        return `<div class="mr-sm-4"><i class="far fa-folder fa-fw"></i>${value}</div>`;
+      }
+    }
+
+    if (prop === 'tags') {
+      if (value === '') {
+        return `${value}`;
+      } else {
+        return `<div><i class="fa fa-tag fa-fw"></i>${value}</div>`;
+      }
+    }
+
+    if (prop === 'date') {
+      if (value === '') {
+        return `${value}`;
+      } else {
+        var date = new Date(value).toDateString();
+        return `<div class="mr-sm-4"><i class="fa fa-calendar fa-fw"></i>${date}</div>`;
+      }
+    }
+  }
+});
+</script>
