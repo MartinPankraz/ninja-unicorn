@@ -8,27 +8,41 @@ This site is a structured conglomerate of all the great sources out there around
 
 Start your **integration journey** and keep up to date with the latest community efforts and BETAs from our [landing page](https://github.com/MartinPankraz/ninja-unicorn).
 
-## Where does the ninja cat meme 🐱‍👤 come from?
-
-Drawing inspiration from the viral [Welcome to the Internet meme by Jason Heuser](https://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378), [KC Lemson](https://twitter.com/kclemson) created a graphic for a PowerPoint presentation that showed the cat (which Lemson says is a female) on a unicorn holding a flag adorned with the Microsoft logo.
-
-Source: [Microsoft Life blog post by Candace Whitney-Morris](https://news.microsoft.com/life/author/morris/) (Jan 3, 2018).
+## Where does the [ninja cat meme](https://devblogs.microsoft.com/oldnewthing/20160804-00/?p=94025) 🐱‍👤 come from?
 
 `Being a ninja cat is more than just being a ninja. Or a cat. It's a state of mind.`
 
+Drawing inspiration from the viral [Welcome to the Internet meme by Jason Heuser](https://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378), [KC Lemson](https://twitter.com/kclemson) created a graphic for a PowerPoint presentation that showed the cat (which Lemson says is a female) on a unicorn holding a flag adorned with the Microsoft logo.
+
+source: [Microsoft Life blog post by Candace Whitney-Morris](https://news.microsoft.com/life/author/morris/) (Jan 3, 2018).
+
 It has become the unofficial mascot of Microsoft employees and carries the gist of inspiration in the workplace, nerding-out your passion, being creative and taking yourself not too serious at times while still delivering exceptional results. We humans think "outside our box" and come up with solutions for tough problems best when our minds are running free. [KC Lemson](https://news.microsoft.com/life/ninja-cat/) - the inventor of the ninja cat - also uses the term "surfing on chaos". What could better depict that than the ninja cat riding on a T-Rex?
 
-
-
-See also the dev blog "[The origin story of the Microsoft ninjacat](https://devblogs.microsoft.com/oldnewthing/20160804-00/?p=94025)" for another angle into the story.
-
-Microsoft is a home that thrives on solving interesting problems. SAP software powering global commerce and transactions being one of them, this is a perfect match.
+![ninja cat riding trex](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/trex.gif)
 
 [KC Lemson](https://news.microsoft.com/life/ninja-cat/) and her invention of the ninja-cat definitely had a huge impact on Microsoft's culture. We are proud to carry it forward as mascot for the joint Microsoft + SAP journey.
 
 By the way, which meme do you like best? Here are a couple for you to get as inspired as KC got when she invented the mascot. Found some more? Please share them with us. We are always eager to get more triggers for inspiration.
 
+![ninja cat riding unicorn over sap cloud](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-unicorn.png)
 
+<p style="text-align: center;">source: adaptation of original by <a href="https://www.linkedin.com/in/morgan-kipp-deegan/">Morgan Deegan</a></p>
+
+![ninja cat riding trex](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-shark.jpg)
+
+<p style="text-align: center;">source: <a href="https://blogs.windows.com/devices/2015/08/06/rock-the-ninjacat-riding-a-t-rex-on-your-lumia/"> Windows Blog</a></p>
+
+![ninja cat with kong](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-kong-theverge.jpg)
+
+<p style="text-align: center;">source: <a href="https://www.theverge.com/2015/9/14/9324787/microsoft-windows-ninja-cat-windows-10-hardware-invite">the windows blog re-shared via the verge</a></p>
+
+![ninja cat jurassic park](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-jurassic.jpg)
+
+<p style="text-align: center;">source: <a href="https://twitter.com/DrMattSm/status/624601443014586369">Matt Simon via twitter</a></p>
+
+![ninja cat beatles](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-beatles.png)
+
+<p style="text-align: center;">source: <a href="https://twitter.com/MichaelGillett/status/623611994009149440">Michael Gillett via Twitter</a></p>
 
 Yours
 
