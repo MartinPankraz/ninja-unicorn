@@ -18,7 +18,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Integration Ninjas                          # the main title
+title: Integration Ninja Cats                          # the main title
 
 tagline: Best of SAP + Microsoft   # it will display as the sub-title
 
@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   Your central place to start your
   Microsoft+SAP integration journey
   and keep up to date with the latest
-  community efforts, BETAs and announcements.
+  community efforts.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://martinpankraz.github.io/ninja-unicorn/'
