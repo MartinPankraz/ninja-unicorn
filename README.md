@@ -125,6 +125,8 @@ Last but not least, here we go with a list of contributors (in alphabetical orde
 | <img src="img/members/roman.jpg" ></img>             | **Roman Broich** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROBROICH)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-broich/)](https://www.linkedin.com/in/roman-broich/)<br>[SAP Community](https://people.sap.com/roman_broich_msft) |
 | <img src="img/members/thijs.jpg" ></img>           | **Thijs Zandvliet** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thzandvl)<br>[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/thijszandvliet)](https://www.linkedin.com/in/thijszandvliet) |
 | <img src="img/members/bart.jpg" ></img>           | **Bart Delanghe** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bdelangh)<br>[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bart-delanghe)](https://www.linkedin.com/in/bart-delanghe)<br>[SAP Community](https://people.sap.com/badelang) |
+| <img src="img/members/robert-biro.jpg" ></img>           | **Robert Biro** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msftrobiro)<br>[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/robert-biro-38991927)](https://www.linkedin.com/in/robert-biro-38991927)<br>[SAP Community](https://people.sap.com/bobbiromsft) |
+| <img src="img/members/will.jpg" ></img>           | **William Eastbury** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willEastbury)<br>[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/willeastbury/)](https://www.linkedin.com/in/willeastbury/) |
 
 ## 🙋 Contributing
 
@@ -132,6 +134,6 @@ One more thing: we are always looking for passionate SAP + Microsoft advocates. 
 
 Yours
 
-Integration [Ninja Cats](https://news.microsoft.com/life/ninja-cat/) 🐱‍👤
+Integration [Ninja Cats](https://martinpankraz.github.io/ninja-unicorn/about/) 🐱‍👤
 
 ![ninja unicorn](img/ninja-unicorn.png)
