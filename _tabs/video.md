@@ -21,3 +21,7 @@ Latest edition:
 ## Azure Friday session on SAP extension scenarios
 
 [![Watch the video](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/azure-friday-placeholder.png)](https://youtu.be/72kbjv0GJAY)
+
+## Microsoft Power Automate - SAP Deep-Dive series
+
+[![Watch the video](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/power-platform-sap-series.png)](https://www.youtube.com/playlist?list=PLi9EhCY4z99W9D8zAMd0Ej5kNOI_4mfkC)
