@@ -1,8 +1,8 @@
 # How to get started with SAP and Microsoft integration scenarios
 
-This repository contains everything you need to learn about Microsoft + SAP joint scenarios and complements the SAP community posts, SAP+Microsoft YouTube Channel, webcasts and open-source contributions on GitHub made by an amazing group of contributors!
+This repository contains everything you need to get started with joint Microsoft + SAP scenarios. The repos content complements the SAP community posts, our SAP+Microsoft YouTube Channel and webcasts as well as the open-source contributions on GitHub made by an amazing group of contributors!
 
-Furthermore, you will learn about the latest community efforts, BETAs and announcements.
+For your weekly news from the SAP+Microsoft world follow the mentioned [YouTube channels](https://github.com/MartinPankraz/ninja-unicorn#-youtube-channels).
 
 To get a first impression about the limitless opportunities of extending SAP applications with Microsoft and Azure services, this Azure Friday episode is a perfect starting point:
 
@@ -20,7 +20,7 @@ The Azure Friday session above gave you a glimpse into the world of combining SA
 
 ## 🧱 Overview of the technical foundation
 
-You want to learn more about the basics of the technical foundation behind SAP and Azure? 
+You want to learn more about the basics of the technical foundation behind SAP and Azure?
 
 **Level 1️⃣ - Let's start with an overview of of [Azure's Global Infrastructure (microsoft.com)](https://infrastructuremap.microsoft.com/).**
 
@@ -28,21 +28,13 @@ You want to learn more about the basics of the technical foundation behind SAP a
   <img src="img/global-infra-small.png"/>
 </p>
 
-
-
-
 **Level 2️⃣ - Let's get an overview what services are available on Azure by taking a look at the [Azure Services Overview (azurecharts.com)](https://azurecharts.com/overview).**
 
 ![Azure services](img/global-services.png)
 
-
-
 **Level 3️⃣ - Now let's dive a bit more into the combination of SAP and Microsoft namely the [SAP solutions on Azure | Microsoft Azure](https://azure.microsoft.com/solutions/sap/azure-solutions/#solution-architectures).**
 
 ![SAP Solution Architectures](img/sap-solution-architectures.png)
-
-
-
 
 **Level 4️⃣ - You want more? We have you covered by two more valuable resources:**
 
@@ -119,14 +111,16 @@ Last but not least, here we go with a list of contributors (in alphabetical orde
 
 | The face behind the name | Coordinates |
 |---: | :--- |
-| <img src="img/members/bartosz 250.jpg" ></img>           | **Bartosz Jarkowski** <br><br> [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bartosz-jarkowski)](https://www.linkedin.com/in/bartosz-jarkowski)<br>[SAP Community](https://people.sap.com/bjarkowski) |
-| <img src="img/members/christian.lechner 250.png" ></img> | **Christian Lechner** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lechnerc77)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flechnerc77)](https://twitter.com/lechnerc77)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-lechner-963b7017/)](https://www.linkedin.com/in/christian-lechner-963b7017/)<br> [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=flat-square&logo=polywork&logoColor=black&link=https://www.polywork.com/lechnerc77/)](https://www.polywork.com/lechnerc77)<br>[SAP Community](https://people.sap.com/christian.lechner) |
-| <img src="img/members/harut 250.jpg" ></img>             | **Harutyun Ter-Minasyan** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hterminasyan)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhterminasyan)](https://twitter.com/hterminasyan)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hterminasyan)](https://www.linkedin.com/in/hterminasyan) |
-| <img src="img/members/Holger 250.jpg" ></img>            | **Holger Bruchelt** <br><br>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hobru)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhobru)](https://twitter.com/hobru)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/holger-bruchelt/)](https://www.linkedin.com/in/holger-bruchelt/)<br>[SAP Community](https://people.sap.com/hobruche) |
-| <img src="img/members/martin 250.jpg" ></img>            | **Martin Pankraz** <br><br>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinPankraz)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmartinpankraz)](https://twitter.com/martinpankraz)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-pankraz/)](https://www.linkedin.com/in/martin-pankraz/)<br>[SAP Community](https://people.sap.com/martin-pankraz) |
-| <img src="img/members/martin-raepple 250.jpg" ></img>    | **Martin Raepple** <br><br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinraepple/)](https://www.linkedin.com/in/martinraepple/)<br>[SAP Community](https://people.sap.com/mraepple) |
-| <img src="img/members/max 250.png" ></img>               | **Maximilian Streifeneder** <br><br>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxstreifeneder)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmaxstreifeneder)](https://twitter.com/maxstreifeneder)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-streifeneder-72a0955b/)](https://www.linkedin.com/in/max-streifeneder-72a0955b/)<br>[SAP Community](https://people.sap.com/iinside) |
-| <img src="img/members/roman 250.jpg" ></img>             | **Roman Broich** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROBROICH)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-broich/)](https://www.linkedin.com/in/roman-broich/)<br>[SAP Community](https://people.sap.com/roman_broich_msft) |
+| <img src="img/members/bartosz.jpg" ></img>           | **Bartosz Jarkowski** <br><br> [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bartosz-jarkowski)](https://www.linkedin.com/in/bartosz-jarkowski)<br>[SAP Community](https://people.sap.com/bjarkowski) |
+| <img src="img/members/christian.lechner.png" ></img> | **Christian Lechner** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lechnerc77)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flechnerc77)](https://twitter.com/lechnerc77)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-lechner-963b7017/)](https://www.linkedin.com/in/christian-lechner-963b7017/)<br> [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=flat-square&logo=polywork&logoColor=black&link=https://www.polywork.com/lechnerc77/)](https://www.polywork.com/lechnerc77)<br>[SAP Community](https://people.sap.com/christian.lechner) |
+| <img src="img/members/harut.jpg" ></img>             | **Harutyun Ter-Minasyan** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hterminasyan)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhterminasyan)](https://twitter.com/hterminasyan)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hterminasyan)](https://www.linkedin.com/in/hterminasyan) |
+| <img src="img/members/Holger.jpg" ></img>            | **Holger Bruchelt** <br><br>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hobru)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhobru)](https://twitter.com/hobru)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/holger-bruchelt/)](https://www.linkedin.com/in/holger-bruchelt/)<br>[SAP Community](https://people.sap.com/hobruche) |
+| <img src="img/members/martin.jpg" ></img>            | **Martin Pankraz** <br><br>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinPankraz)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmartinpankraz)](https://twitter.com/martinpankraz)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-pankraz/)](https://www.linkedin.com/in/martin-pankraz/)<br>[SAP Community](https://people.sap.com/martin-pankraz) |
+| <img src="img/members/martin-raepple.jpg" ></img>    | **Martin Raepple** <br><br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinraepple/)](https://www.linkedin.com/in/martinraepple/)<br>[SAP Community](https://people.sap.com/mraepple) |
+| <img src="img/members/max.png" ></img>               | **Maximilian Streifeneder** <br><br>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxstreifeneder)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmaxstreifeneder)](https://twitter.com/maxstreifeneder)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-streifeneder-72a0955b/)](https://www.linkedin.com/in/max-streifeneder-72a0955b/)<br>[SAP Community](https://people.sap.com/iinside) |
+| <img src="img/members/roman.jpg" ></img>             | **Roman Broich** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROBROICH)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-broich/)](https://www.linkedin.com/in/roman-broich/)<br>[SAP Community](https://people.sap.com/roman_broich_msft) |
+| <img src="img/members/thijs.jpg" ></img>           | **Thijs Zandvliet** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thzandvl)<br>[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/thijszandvliet)](https://www.linkedin.com/in/thijszandvliet) |
+| <img src="img/members/bart.jpg" ></img>           | **Bart Delanghe** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bdelangh)<br>[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bart-delanghe)](https://www.linkedin.com/in/bart-delanghe)<br>[SAP Community](https://people.sap.com/badelang) |
 
 ## 🙋 Contributing
 
