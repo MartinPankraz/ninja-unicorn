@@ -1,5 +1,7 @@
 # How to get started with SAP and Microsoft integration scenarios
 
+>🚀QUICK link to community [blog gallery](https://martinpankraz.github.io/ninja-unicorn/)
+
 This repository contains everything you need to get started with joint Microsoft + SAP scenarios. The repos content complements the SAP community posts, our SAP+Microsoft YouTube Channel and webcasts as well as the open-source contributions on GitHub made by an amazing group of contributors!
 
 For your weekly news from the SAP+Microsoft world follow the mentioned [YouTube channels](https://github.com/MartinPankraz/ninja-unicorn#-youtube-channels).
@@ -22,7 +24,9 @@ The Azure Friday session above gave you a glimpse into the world of combining SA
 
 You want to learn more about the basics of the technical foundation behind SAP and Azure?
 
-**Level 1️⃣ - Let's start with an overview of of [Azure's Global Infrastructure (microsoft.com)](https://infrastructuremap.microsoft.com/).**
+**Level 1️⃣ - Let's start with an overview of [Azure's Global Infrastructure (microsoft.com)](https://infrastructuremap.microsoft.com/).**
+
+🧑‍🚀Challenge: Can you spot the satellite 🛰️ on the screenshot? Microsoft services capabilities extended by [space infrastructure](https://azure.microsoft.com/solutions/space).
 
 <p align="center">
   <img src="img/global-infra-small.png"/>
@@ -66,7 +70,7 @@ Now you have seen enough and want to make your hands dirty? Good news, you can d
 | The perfect start and a **must-see** | [Building Applications on SAP BTP with Microsoft Services \| openSAP](https://open.sap.com/courses/btpma1) |
 | SAP Discovery Center Missions providing use-cases for combing BTP and Microsoft Azure services | [Integrate Azure Data Explorer and SAP Data Warehouse Cloud](https://discovery-center.cloud.sap/missiondetail/3433/3473/)<br><br>[Establish security workflow between SAP and Microsoft apps (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3232/3236/)<br><br>[Extend your business workflow with Microsoft Teams & Outlook (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3674/3717/) |
 
->> 📝 Tip - [openSAP courses](https://open.sap.com/) guide you through the journey with lectures and assignments to foster learning whereas Discovery Center Missions focus more on the correct deployment of a solution.
+> 📝 Tip - [openSAP courses](https://open.sap.com/) guide you through the journey with lectures and assignments to foster learning whereas Discovery Center Missions focus more on the correct deployment of a solution.
 
 ## 🧑‍🤝‍🧑 Meet the community
 
@@ -94,7 +98,7 @@ Latest edition:
 
 LinkedIn is another source we like to bring to your attention namely the insightful LinkedIn group [![Linkedin: SAP Architects on Azure](https://img.shields.io/badge/-SAP%20Architects%20on%20Azure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/9055223/)](https://www.linkedin.com/groups/9055223/) owned by [Denys van Kempen](https://people.sap.com/denys.kempen).
 
-### Blog Posts
+### 📰 Blog Posts
 
 Find our searchable blog post gallery grouped by topic [here](https://martinpankraz.github.io/ninja-unicorn/).
 
