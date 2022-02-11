@@ -132,4 +132,6 @@ One more thing: we are always looking for passionate SAP + Microsoft advocates. 
 
 Yours
 
+Integration [Ninja Cats](https://news.microsoft.com/life/ninja-cat/)
+
 ![ninja unicorn](img/ninja-unicorn.png)
