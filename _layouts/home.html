@@ -47,7 +47,7 @@ layout: page
 
   <div class="post-preview">
     <h1>
-      <a href="{{ post.origurl | relative_url }}">{{ post.title }}</a>
+      <a href="{{ post.origurl | relative_url }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
     </h1>
 
     <div class="post-content">
@@ -75,7 +75,7 @@ layout: page
         {{ site.data.locales[lang].post.written_by }}
         <em>
           {% if author_link %}
-            <a href="{{ author_link }}">{{ author_name }}</a>
+            <a href="{{ author_link }}" target="_blank" rel="noopener noreferrer">{{ author_name }}</a>
           {% else %}
             {{ author_name }}
           {% endif %}
