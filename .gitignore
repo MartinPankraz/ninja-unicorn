@@ -1,0 +1,3 @@
+# jekyll ignores for main
+.jekyll-cache
+_site
