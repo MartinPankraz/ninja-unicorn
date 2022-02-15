@@ -113,7 +113,7 @@ Equally important for your future endeavour with SAP and Microsoft are Customer 
 
 Last but not least, here we go with a list of contributors (in alphabetical order of first name)
 
-| The face behind the ninja cat | Coordinates |
+| The face behind the ninja cat 🥷🐱 | Coordinates |
 |---: | :--- |
 | <img src="img/members/bartosz.jpg" ></img>           | **Bartosz Jarkowski** <br><br> [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bartosz-jarkowski)](https://www.linkedin.com/in/bartosz-jarkowski)<br>[SAP Community](https://people.sap.com/bjarkowski) |
 | <img src="img/members/christian.lechner.png" ></img> | **Christian Lechner** <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lechnerc77)<br>[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flechnerc77)](https://twitter.com/lechnerc77)<br>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-lechner-963b7017/)](https://www.linkedin.com/in/christian-lechner-963b7017/)<br> [![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=flat-square&logo=polywork&logoColor=black&link=https://www.polywork.com/lechnerc77/)](https://www.polywork.com/lechnerc77)<br>[SAP Community](https://people.sap.com/christian.lechner) |
@@ -134,6 +134,6 @@ One more thing: we are always looking for passionate SAP + Microsoft advocates. 
 
 Yours
 
-Integration [Ninja Cats](https://martinpankraz.github.io/ninja-unicorn/about/) 🐱‍👤
+Integration [Ninja Cats](https://martinpankraz.github.io/ninja-unicorn/about/) 🥷🐱
 
 ![ninja unicorn](img/ninja-unicorn.png)
