@@ -15,8 +15,8 @@ Latest edition:
 
 Latest edition:
 
-<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R8qhSLMt0_8"><img width="100%" src="https://i.ytimg.com/vi/R8qhSLMt0_8/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=R8qhSLMt0_8">myNewsWrap – SAP and Microsoft &lpar;Episode 70&rpar;</a></td></tr></table><!-- YOUTUBEMNW:END -->
+<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iGyEJjgUa4E"><img width="100%" src="https://i.ytimg.com/vi/iGyEJjgUa4E/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=iGyEJjgUa4E">myNewsWrap – SAP and Microsoft &lpar;Episode 72&rpar;</a></td></tr></table><!-- YOUTUBEMNW:END -->
 
 ## Azure Friday session on SAP extension scenarios
 
