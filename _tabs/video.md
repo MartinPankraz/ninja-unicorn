@@ -8,8 +8,8 @@ order: 1
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AtUNu9VhKU4"><img width="100%" src="https://i.ytimg.com/vi/AtUNu9VhKU4/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=AtUNu9VhKU4">#78 - The one with 25+ years of SAP &amp; Microsoft &lpar;Hans Reutter&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EpGL9uwuOes"><img width="100%" src="https://i.ytimg.com/vi/EpGL9uwuOes/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=EpGL9uwuOes">#80 - The one with SAP Fiori, Azure App Gateway and AAD &lpar;Dennis Padia&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 ## Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective
 
