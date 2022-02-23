@@ -17,14 +17,3 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           max_post_count: 1
           template: '<table><tr><td><a href="$url"><img width="100%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td></tr><tr>$newline<td><a href="$url">$title</a></td></tr></table>'
-      - uses: actions/checkout@v2
-        with:
-          ref: pages
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          readme_path: "./_tabs/video.md"
-          comment_tag_name: "YOUTUBEMNW"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCeaAZSNyP3MbyGe_1KKZADA"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          max_post_count: 1
-          template: '<table><tr><td><a href="$url"><img width="100%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td></tr><tr>$newline<td><a href="$url">$title</a></td></tr></table>'    
