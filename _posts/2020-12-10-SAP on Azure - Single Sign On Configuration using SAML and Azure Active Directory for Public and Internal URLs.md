@@ -1,5 +1,5 @@
 ---
-title: SAP on Azure - Single Sign On Configuration using SAML and Azure Active Directory for Public and Internal URLs
+title: Single Sign On Configuration using SAML and Azure Active Directory for Public and Internal URLs
 origurl: https://blogs.sap.com/2020/12/10/sap-on-azure-single-sign-on-configuration-using-saml-and-azure-active-directory-for-public-and-internal-urls/
 medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2020-12-10 12:00:00 +/0100
