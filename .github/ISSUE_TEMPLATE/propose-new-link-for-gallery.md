@@ -7,7 +7,7 @@ assignees: MartinPankraz
 
 ---
 {
-"title": "UNKNOWN",
+"title": "",
 "authorName": "", 
 "authorSocial": "https://people.sap.com/martin-pankraz",
 "publishDate": "YYYY-MM-DD"
