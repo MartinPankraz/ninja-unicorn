@@ -10,5 +10,6 @@ assignees: MartinPankraz
 "title": "",
 "authorName": "", 
 "authorSocial": "https://people.sap.com/martin-pankraz",
-"publishDate": "YYYY-MM-DD"
+"publishDate": "YYYY-MM-DD",
+"sneakPeek": "A quick intro into the topic. Typically copy from first section."
 }
