@@ -6,12 +6,10 @@ labels: ''
 assignees: MartinPankraz
 
 ---
-Title:
+Title: UNKNOWN
 
-URL: 
+Name of author: 
 
-Name of author:
-
-Author's social link:
+Author's social link: https://people.sap.com/martin-pankraz
 
 Date (YYYY-MM-DD):
