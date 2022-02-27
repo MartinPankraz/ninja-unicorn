@@ -6,8 +6,9 @@ labels: ''
 assignees: MartinPankraz
 
 ---
+Title:
 
-Link: 
+URL: 
 
 Name of author:
 
