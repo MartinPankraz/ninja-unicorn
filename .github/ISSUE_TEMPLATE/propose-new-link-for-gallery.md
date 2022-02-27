@@ -1,6 +1,6 @@
 ---
 name: Propose new link for gallery
-about: Why is it great in three words
+about: Contribute to ninja community
 title: "[LINK]:"
 labels: ''
 assignees: MartinPankraz
