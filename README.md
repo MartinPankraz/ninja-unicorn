@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mn0kqpxitsQ"><img width="100%" src="https://i.ytimg.com/vi/mn0kqpxitsQ/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=mn0kqpxitsQ">#81 - The one with updates on Microsoft  Sentinel for SAP &lpar;Yoav Daniely, Koby Mymon, Aaron Hillard&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ouzorxMk4rU"><img width="100%" src="https://i.ytimg.com/vi/ouzorxMk4rU/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=ouzorxMk4rU">Power Apps  and SAP ERP Connector</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
