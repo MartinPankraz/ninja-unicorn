@@ -2,7 +2,7 @@
 title: Integrate a CI/CD Pipeline on Azure DevOps with DevOps-Related Services from SAP BTP, Cloud Foundry
 origurl: https://blogs.sap.com/2022/02/18/integrate-a-ci-cd-pipeline-on-azure-devops-with-devops-related-services-from-sap-btp-cloud-foundry/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2022-02-18 12:00:00 +/0100
+date: 2022-02-18 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [DEVOPS, AZURE_DEVOPS] # category should be a topic and sub-category primary product
 tags: [ci-cd, cf, automation, sap-btp]     # TAG names should always be lowercase

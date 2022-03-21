@@ -2,7 +2,7 @@
 title: BTP private linky swear with Azure – keep the auditor happy with Private Link Service
 origurl: https://blogs.sap.com/2021/11/19/btp-private-linky-swear-with-azure-keep-the-auditor-happy/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-11-19 12:00:00 +/0100
+date: 2021-11-19 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [NETWORKING, PRIVATE_LINK] # category should be a topic and sub-category primary product
 tags: [sap-web-dispatcher, sap-btp, security, rfc]     # TAG names should always be lowercase

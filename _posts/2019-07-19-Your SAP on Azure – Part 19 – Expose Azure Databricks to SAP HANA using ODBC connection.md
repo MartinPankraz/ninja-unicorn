@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 19 – Expose Azure Databricks to SAP HANA using ODBC connection
 origurl: https://blogs.sap.com/2019/07/18/your-sap-on-azure-part-19-expose-azure-databricks-to-sap-hana-using-odbc-connection/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2019-07-19 12:00:00 +/0100
+date: 2019-07-19 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

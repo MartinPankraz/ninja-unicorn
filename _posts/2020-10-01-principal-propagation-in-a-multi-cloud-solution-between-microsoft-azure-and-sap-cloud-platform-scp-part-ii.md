@@ -2,7 +2,7 @@
 title: Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Business Technology Platform (BTP), Part II Connecting the system on-premise
 origurl: https://blogs.sap.com/2020/10/01/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-cloud-platform-scp-part-ii/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2020-10-01 12:00:00 +/0100
+date: 2020-10-01 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, XSUAA] # category should be a topic and sub-category primary product
 tags: [sap-btp, cf, aad, security, principal-propagation, cloud-connector, sap-gateway, app-service, oauth]     # TAG names should always be lowercase

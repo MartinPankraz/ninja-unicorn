@@ -2,7 +2,7 @@
 title: SAP Cloud Application Programming Model + Azure Blob Storage Sample
 origurl: https://github.com/maxstreifeneder/cloud-foundry-cap-azure-cities
 medium: github repos #blog, github repos, linkedIn article, partner pages
-date: 2020-05-10 12:00:00 +/0100
+date: 2020-05-10 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, AZURE_STORAGE] # category should be a topic and sub-category primary product
 tags: [blob, osb, cap, vsc, cf, sap-btp]     # TAG names should always be lowercase

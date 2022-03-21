@@ -2,7 +2,7 @@
 title: Building a Side-by-side Extension with Kyma and Microsoft Azure
 origurl: https://blogs.sap.com/2021/01/12/building-a-side-by-side-extension-with-kyma-and-microsoft-azure/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2022-01-12 12:00:00 +/0100
+date: 2022-01-12 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, KYMA] # category should be a topic and sub-category primary product
 tags: [azure-functions, kyma, cognitive-services, business-rules, steampunk, microsoft-graph, sap-btp, commerce-cloud]     # TAG names should always be lowercase

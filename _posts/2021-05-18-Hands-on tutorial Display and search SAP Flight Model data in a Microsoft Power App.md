@@ -2,7 +2,7 @@
 title: Hands-on tutorial - Display and search SAP Flight Model data in a Microsoft Power App
 origurl: https://github.com/ROBROICH/Display-and-search-SAP-Flight-Model-data-in-a-Microsoft-Power-App
 medium: github repos #blog, github repos, linkedIn article, partner pages
-date: 2020-05-18 12:00:00 +/0100
+date: 2020-05-18 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [DATA_EXTRACTION, POWER_PLATFORM] # category should be a topic and sub-category primary product
 tags: [onpremises-data-gateway, power-apps, power-automate, bapi]     # TAG names should always be lowercase

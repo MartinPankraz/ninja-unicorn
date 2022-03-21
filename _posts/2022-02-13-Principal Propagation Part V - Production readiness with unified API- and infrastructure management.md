@@ -2,7 +2,7 @@
 title: Principal propagation in a multi-cloud solution between Microsoft Azure and SAP Business Technology Platform (BTP), Part V - Production readiness with unified API- and infrastructure management
 origurl: https://blogs.sap.com/2022/02/13/principal-propagation-in-a-multi-cloud-solution-between-microsoft-azure-and-sap-business-technology-platform-btp-part-v-production-readiness-with-unified-api-and-infrastructure-management/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2022-02-13 12:00:00 +/0100
+date: 2022-02-13 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, APIM] # category should be a topic and sub-category primary product
 tags: [apim, sap-btp, cf, aad, security, principal-propagation, cloud-connector, sap-gateway, app-service, power-virtual-agent, onpremises-data-gateway, teams, oauth]     # TAG names should always be lowercase

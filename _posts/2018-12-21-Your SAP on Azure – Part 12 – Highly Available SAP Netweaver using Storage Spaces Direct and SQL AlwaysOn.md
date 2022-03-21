@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 12 – Highly Available SAP Netweaver using Storage Spaces Direct and SQL AlwaysOn
 origurl: 
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2018-12-21 12:00:00 +/0100
+date: 2018-12-21 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 25 – SQL Server Transparent Data Encryption with Azure Key Vault
 origurl: https://blogs.sap.com/2021/01/19/your-sap-on-azure-part-25-sql-server-transparent-data-encryption-with-azure-key-vault/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-01-19 12:00:00 +/0100
+date: 2021-01-19 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

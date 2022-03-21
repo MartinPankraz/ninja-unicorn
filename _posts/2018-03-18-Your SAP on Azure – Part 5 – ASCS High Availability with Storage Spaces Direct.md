@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 5 – ASCS High Availability with Storage Spaces Direct
 origurl: https://blogs.sap.com/2018/03/07/your-sap-on-azure-part-5-ascs-high-availability-with-storage-spaces-direct/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2018-03-18 12:00:00 +/0100
+date: 2018-03-18 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

@@ -2,7 +2,7 @@
 title: SAP & MS Teams 2 – Target application features
 origurl: https://blogs.sap.com/2022/02/08/sap-ms-teams-2-target-application-features/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2022-02-08 12:00:00 +/0100
+date: 2022-02-08 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, TEAMS] # category should be a topic and sub-category primary product
 tags: [getting-started, success-factors, teams, cpi, aad, xsuaa, cf, sap-btp, blob, chatbot, mobile]     # TAG names should always be lowercase

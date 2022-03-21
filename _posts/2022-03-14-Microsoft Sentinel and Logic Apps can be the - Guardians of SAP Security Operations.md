@@ -2,7 +2,7 @@
 title: Microsoft Sentinel and Logic Apps can be the ‘Guardians of SAP Security Operations (SecOps)’?
 origurl: https://blogs.sap.com/2022/03/14/microsoft-sentinel-and-logic-apps-can-be-the-guardians-of-sap-security-operations-secops/
 medium: blog #blog, github repos, article, partner pages
-date: 2022-03-17 12:00:00 +/0100
+date: 2022-03-17 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, SENTINEL] # category should be a topic and sub-category primary product
 tags: [security, logic-apps, s4, getting-started, siem, sec-ops]     # TAG names should always be lowercase

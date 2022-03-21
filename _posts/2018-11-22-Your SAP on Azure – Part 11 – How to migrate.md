@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 11 – How to migrate?
 origurl: https://blogs.sap.com/2018/11/22/your-sap-on-azure-part-11-how-to-migrate/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2018-11-22 12:00:00 +/0100
+date: 2018-11-22 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

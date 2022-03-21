@@ -2,7 +2,7 @@
 title: Whatever happens in an Azure and BTP private linky swear, stays in the linky swear! An implementation story of the Private Link Service for Azure.
 origurl: https://blogs.sap.com/2021/07/02/whatever-happens-in-an-azure-and-btp-private-linky-swear-stays-in-the-linky-swear/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-07-02 12:00:00 +/0100
+date: 2021-07-02 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [NETWORKING, PRIVATE_LINK] # category should be a topic and sub-category primary product
 tags: [getting-started, private-link, sap-btp, sap-bas, odata, cloud-sdk, java, cap]     # TAG names should always be lowercase

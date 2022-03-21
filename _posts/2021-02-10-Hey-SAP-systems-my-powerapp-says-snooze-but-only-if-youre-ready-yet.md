@@ -2,7 +2,7 @@
 title: Hey, SAP Systems! My PowerApp says Snooze! But only if you’re ready yet
 origurl: https://blogs.sap.com/2021/02/10/hey-sap-systems-my-powerapp-says-snooze-but-only-if-youre-ready-yet/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-02-10 12:00:00 +/0100
+date: 2021-02-10 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [AUTOMATION, POWER_PLATFORM] # category should be a topic and sub-category primary product
 tags: [automation-account, sap-snooze, mobile, power-apps, power-automate]     # TAG names should always be lowercase

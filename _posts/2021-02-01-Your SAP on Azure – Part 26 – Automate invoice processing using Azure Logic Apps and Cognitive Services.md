@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 26 – Automate invoice processing using Azure Logic Apps and Cognitive Services
 origurl: https://blogs.sap.com/2021/02/03/your-sap-on-azure-part-26-automate-invoice-processing-using-azure-logic-apps-and-cognitive-services/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-02-01 12:00:00 +/0100
+date: 2021-02-01 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

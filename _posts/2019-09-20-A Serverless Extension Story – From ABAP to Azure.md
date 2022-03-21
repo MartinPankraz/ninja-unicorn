@@ -2,7 +2,7 @@
 title: A Serverless Extension Story – From ABAP to Azure
 origurl: https://blogs.sap.com/2019/12/09/a-serverless-extension-story-from-abap-to-azure/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2019-09-20 12:00:00 +/0100
+date: 2019-09-20 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, KYMA] # category should be a topic and sub-category primary product
 tags: [service-bus, azure-functions, kyma, sap-btp, s4, cloud-sdk, logic-apps]     # TAG names should always be lowercase

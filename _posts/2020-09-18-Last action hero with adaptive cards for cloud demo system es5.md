@@ -2,7 +2,7 @@
 title: Last action hero with adaptive cards for cloud demo system ES5    
 origurl: https://blogs.sap.com/2020/09/18/last-action-hero-with-adaptive-cards-for-cloud-demo-system-es5/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2020-09-18 12:00:00 +/0100
+date: 2020-09-18 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [AUTOMATION, M365] # category should be a topic and sub-category primary product
 tags: [actionable-messages, adaptive-cards, power-automate, teams, outlook, sap-es5]     # TAG names should always be lowercase

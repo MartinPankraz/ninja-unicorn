@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 15 – Connect SAP Vora with Azure HDInsight
 origurl: https://blogs.sap.com/2019/04/17/your-sap-on-azure-part-15-connect-sap-vora-with-azure-hdinsight/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2019-08-17 12:00:00 +/0100
+date: 2019-08-17 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

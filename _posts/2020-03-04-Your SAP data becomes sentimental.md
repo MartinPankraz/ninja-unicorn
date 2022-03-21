@@ -2,7 +2,7 @@
 title: Your SAP data becomes “sentimental”
 origurl: https://blogs.sap.com/2020/03/04/your-sap-data-becomes-sentimental/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2020-03-04 12:00:00 +/0100
+date: 2020-03-04 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [AI, COGNITIVE_SERVICES] # category should be a topic and sub-category primary product
 tags: [sentiment-analysis, logic-apps, d365, apim, sapui5, cf, sap-btp]     # TAG names should always be lowercase

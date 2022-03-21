@@ -2,7 +2,7 @@
 title: Open your SAP OData APIs for some swagger – or how to make friends with the other kids from the API block
 origurl: https://blogs.sap.com/2022/03/17/open-your-sap-odata-apis-for-some-swagger-or-how-to-make-friends-with-the-other-kids-from-the-api-block/
 medium: blog #blog, github repos, article, partner pages
-date: 2022-03-17 12:00:00 +/0100
+date: 2022-03-17 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, APIM] # category should be a topic and sub-category primary product
 tags: [odata, openapi, apim, s4, getting-started]     # TAG names should always be lowercase

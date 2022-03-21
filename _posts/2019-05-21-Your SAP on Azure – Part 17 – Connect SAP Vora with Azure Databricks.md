@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 17 – Connect SAP Vora with Azure Databricks
 origurl: https://blogs.sap.com/2019/05/21/your-sap-on-azure-part-17-connect-sap-vora-with-azure-databricks/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2019-05-21 12:00:00 +/0100
+date: 2019-05-21 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

@@ -2,7 +2,7 @@
 title: Connecting SAP Cloud Platform Enterprise Messaging with Azure Event Grid
 origurl: https://blogs.sap.com/2020/06/15/connecting-sap-cloud-platform-enterprise-messaging-with-azure-event-grid/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2020-06-15 12:00:00 +/0100
+date: 2020-06-15 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [EVENTING, EVENT_GRID] # category should be a topic and sub-category primary product
 tags: [service-bus, azure-event-grid, sap-event-mesh, sap-btp, s4]     # TAG names should always be lowercase

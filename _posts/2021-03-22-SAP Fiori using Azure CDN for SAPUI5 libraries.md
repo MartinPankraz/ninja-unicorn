@@ -2,7 +2,7 @@
 title: SAP Fiori using Azure CDN for SAPUI5 libraries
 origurl: https://blogs.sap.com/2021/03/22/sap-fiori-using-azure-cdn-for-sapui5-libraries/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-03-22 12:00:00 +/0100
+date: 2021-03-22 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [GLOBAL_REACH, AZURE_CDN] # category should be a topic and sub-category primary product
 tags: [getting-started, fiori, sap-btp, s4, sap-gateway, cdn, sapui5, app-gateway, sap-web-dispatcher]     # TAG names should always be lowercase

@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 18 – The story of a missing CSRF token
 origurl: https://blogs.sap.com/2019/05/28/your-sap-on-azure-part-18-the-story-of-a-missing-csrf-token/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2019-05-28 12:00:00 +/0100
+date: 2019-05-28 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

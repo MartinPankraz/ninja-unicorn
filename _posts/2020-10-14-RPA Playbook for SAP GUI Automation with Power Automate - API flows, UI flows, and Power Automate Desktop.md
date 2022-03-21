@@ -2,7 +2,7 @@
 title: RPA Playbook for SAP GUI Automation with Power Automate - API flows, UI flows, and Power Automate Desktop
 origurl: https://flow.microsoft.com/en-au/blog/rpa-playbook-for-sap-gui-automation-with-power-automate-api-flows-ui-flows-and-power-automate-desktop/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2020-10-14 12:00:00 +/0100
+date: 2020-10-14 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, POWER_AUTOMATE] # category should be a topic and sub-category primary product
 tags: [robotic-process-automation, power-automate, api, logic-apps, sap-gui, abap]     # TAG names should always be lowercase

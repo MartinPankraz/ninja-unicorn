@@ -2,7 +2,7 @@
 title: SAP and Azure integration demo with Microsoft Teams and Outlook365
 origurl: https://github.com/ROBROICH/SAP_AND_AZURE_TEAMS_DEMO
 medium: github repos #blog, github repos, linkedIn article, partner pages
-date: 2020-09-27 12:00:00 +/0100
+date: 2020-09-27 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, M365] # category should be a topic and sub-category primary product
 tags: [teams, outlook, logic-apps, sap-es5]     # TAG names should always be lowercase

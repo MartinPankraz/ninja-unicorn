@@ -2,7 +2,7 @@
 title: ODP based data extraction from S/4HANA via OData client
 origurl: https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT
 medium: github repos #blog, github repos, linkedIn article, partner pages
-date: 2020-07-31 12:00:00 +/0100
+date: 2020-07-31 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [DATA_EXTRACTION, AZURE_DATA_FACTORY] # category should be a topic and sub-category primary product
 tags: [odp, odata, cds-view, getting-started]     # TAG names should always be lowercase

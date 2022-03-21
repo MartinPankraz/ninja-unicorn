@@ -2,7 +2,7 @@
 title: Black Friday will take your CPI instance offline unless…
 origurl: https://blogs.sap.com/2021/09/23/black-friday-will-take-your-cpi-instance-offline-unless/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-09-23 12:00:00 +/0100
+date: 2021-09-23 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [HIGH_AVAILABILITY, AZURE_INTEGRATION_SERVICES] # category should be a topic and sub-category primary product
 tags: [traffic-manager, key-vault, apim, cpi, logic-apps, monitor]     # TAG names should always be lowercase

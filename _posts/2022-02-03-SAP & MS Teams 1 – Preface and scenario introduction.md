@@ -2,7 +2,7 @@
 title: SAP & MS Teams 1 – Preface and scenario introduction
 origurl: https://blogs.sap.com/2022/02/03/sap-ms-teams-1-preface-and-scenario-introduction/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2022-02-03 12:00:00 +/0100
+date: 2022-02-03 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, TEAMS] # category should be a topic and sub-category primary product
 tags: [getting-started, success-factors, teams, cpi, aad, xsuaa, cf, sap-btp, blob, chatbot]     # TAG names should always be lowercase

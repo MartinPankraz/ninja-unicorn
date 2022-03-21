@@ -2,7 +2,7 @@
 title: SAP Migration to Azure - Performance Optimization Guidance
 origurl: https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/sap-migration-to-azure-performance-optimization-guidance/ba-p/2112474
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-02-09 12:00:00 +/0100
+date: 2021-02-09 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [MIGRATION, AZURE_INFRASTRUCTURE] # category should be a topic and sub-category primary product
 tags: [getting-started, performance, optimization, vm, storage, monitoring, migration, caching]     # TAG names should always be lowercase

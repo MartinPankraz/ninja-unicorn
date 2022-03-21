@@ -2,7 +2,7 @@
 title: Your SAP on Azure – Part 9 – Easy integration using Azure Logic Apps
 origurl: https://blogs.sap.com/2018/09/25/your-sap-on-azure-part-9-easy-integration-using-azure-logic-apps/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2018-09-25 12:00:00 +/0100
+date: 2018-09-25 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [dummy, dummy] # category should be a topic and sub-category primary product
 tags: [dummy]     # TAG names should always be lowercase

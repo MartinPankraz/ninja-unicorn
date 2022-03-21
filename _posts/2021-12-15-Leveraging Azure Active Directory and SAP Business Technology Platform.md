@@ -2,7 +2,7 @@
 title: Leveraging Azure Active Directory and SAP Business Technology Platform
 origurl: https://blogs.sap.com/2021/12/15/leveraging-azure-active-directory-and-sap-business-technology-platform/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2021-12-15 12:00:00 +/0100
+date: 2021-12-15 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, AZURE_AD] # category should be a topic and sub-category primary product
 tags: [aad, sap-btp, sap-ias, teams, xsuaa, cloud-connector, principal-propagation]     # TAG names should always be lowercase

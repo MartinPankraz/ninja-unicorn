@@ -2,7 +2,7 @@
 title: SCP Business Rules put to the test with Microsoft Power Platform
 origurl: https://blogs.sap.com/2020/07/31/scp-business-rules-put-to-the-test-with-microsoft-power-platform/
 medium: blog #blog, github repos, linkedIn article, partner pages
-date: 2020-07-31 12:00:00 +/0100
+date: 2020-07-31 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [AUTOMATION, POWER_PLATFORM] # category should be a topic and sub-category primary product
 tags: [power-apps, power-automate, business-rules, adaptive-cards, teams, outlook, sap-btp]     # TAG names should always be lowercase
