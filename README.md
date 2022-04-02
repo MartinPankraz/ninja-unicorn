@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=a8w7b8WhrHM"><img width="100%" src="https://i.ytimg.com/vi/a8w7b8WhrHM/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=a8w7b8WhrHM">Episode 2.​We are embedding SAP Launchpad service ​to Microsoft Teams</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EpClRhhj8Sw"><img width="100%" src="https://i.ytimg.com/vi/EpClRhhj8Sw/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=EpClRhhj8Sw">#86 - The one demoing the SAP deployment automation framework &lpar;Jennifer Hajduk &amp; Pankaj Meshram&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
