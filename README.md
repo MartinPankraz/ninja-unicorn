@@ -91,8 +91,8 @@ Latest edition:
 
 Latest edition:
 
-<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5o_XJq7yctA"><img width="100%" src="https://i.ytimg.com/vi/5o_XJq7yctA/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=5o_XJq7yctA">myNewsWrap – SAP and Microsoft &lpar;Episode 77&rpar;</a></td></tr></table><!-- YOUTUBEMNW:END -->
+<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1vXiA2Zwffg"><img width="100%" src="https://i.ytimg.com/vi/1vXiA2Zwffg/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=1vXiA2Zwffg">myNewsWrap – SAP and Microsoft &lpar;Episode 78&rpar;</a></td></tr></table><!-- YOUTUBEMNW:END -->
 
 ### 💬 LinkedIn
 
