@@ -5,7 +5,7 @@ medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2020-04-14 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, M365] # category should be a topic and sub-category primary product
-tags: [security, sap-btp, workflow, adaptive-cards, actionable-message, s4, approval, email, outlook]     # TAG names should always be lowercase
+tags: [security, sap-btp, workflow, adaptive-cards, actionable-messages, s4, approval, email, outlook]     # TAG names should always be lowercase
 
 author:
   name: Harald Schubert
