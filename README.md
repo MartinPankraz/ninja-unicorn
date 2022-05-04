@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8JODaH6UVak"><img width="100%" src="https://i.ytimg.com/vi/8JODaH6UVak/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=8JODaH6UVak">Episode 5.​ Build upon the solution for everything - Deploy a Chatbot to Teams &amp; change data in SAP​</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=afshpqUS2xw"><img width="100%" src="https://i.ytimg.com/vi/afshpqUS2xw/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=afshpqUS2xw">Working with Power Platform and SAP - demo at DSAG Technologietage 2022</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
