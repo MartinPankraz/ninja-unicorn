@@ -91,8 +91,8 @@ Latest edition:
 
 Latest edition:
 
-<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QXD8M_tf-eA"><img width="100%" src="https://i.ytimg.com/vi/QXD8M_tf-eA/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=QXD8M_tf-eA">myNewsWrap – SAP and Microsoft &lpar;Episode 85&rpar; ... The End?</a></td></tr></table><!-- YOUTUBEMNW:END -->
+<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kxqINSCjXHA"><img width="100%" src="https://i.ytimg.com/vi/kxqINSCjXHA/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=kxqINSCjXHA">#QuickGlance - The updated VSCode Azure Tools Extension</a></td></tr></table><!-- YOUTUBEMNW:END -->
 
 ### 💬 LinkedIn
 
