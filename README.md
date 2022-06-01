@@ -91,8 +91,8 @@ Latest edition:
 
 Latest edition:
 
-<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kxqINSCjXHA"><img width="100%" src="https://i.ytimg.com/vi/kxqINSCjXHA/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=kxqINSCjXHA">#QuickGlance - The updated VSCode Azure Tools Extension</a></td></tr></table><!-- YOUTUBEMNW:END -->
+<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk"><img width="100%" src="https://i.ytimg.com/vi/BHBgQ45fgIk/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk">#QuickGlance - the btp-setup-automator</a></td></tr></table><!-- YOUTUBEMNW:END -->
 
 ### 💬 LinkedIn
 
