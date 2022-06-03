@@ -100,7 +100,24 @@ comments:
   utterances:
     repo:         # <gh-username>/<repo>
     issue_term:   # < url | pathname | title | ...>
+    
+  # Giscus options › https://giscus.app
+  giscus:
+    repo:             # <gh-username>/<repo>
+    repo_id:
+    category:
+    category_id:
+    mapping:          # optional, default to 'pathname'
+    input_position:   # optional, default to 'bottom'
+    lang:             # optional, default to the value of `site.lang`
 
+# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+assets:
+  self_host:
+    enabled:      # boolean, keep empty means false
+    # specify the Jekyll environment, empty means both
+    # only works if `assets.self_host.enabled` is 'true'
+    env: production         # [development|production]
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
@@ -145,6 +162,16 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - 
+    scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
+  -
+    scope:
+      path: assets/js/dist
+    values:
+      swcache: true
 
 sass:
   style: compressed
@@ -162,7 +189,6 @@ exclude:
   - '*.gem'
   - '*.gemspec'
   - tools
-  - docs
   - README.md
   - LICENSE
   - gulpfile.js

@@ -18,7 +18,7 @@ It has become the unofficial mascot of Microsoft employees and carries the gist 
 
 ![ninja cat riding trex](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/trex.gif)
 
-<p style="text-align: center;">source: <a href="https://www.theverge.com/2015/7/21/9008239/microsoft-ninja-cat-t-rex-skype-emoticon">the windows blog re-shared via the verge</a></p>
+<p style="text-align: center;">source: <a href="https://www.theverge.com/2015/7/21/9008239/microsoft-ninja-cat-t-rex-skype-emoticon" target="_blank">the windows blog re-shared via the verge</a></p>
 
 [KC Lemson](https://news.microsoft.com/life/ninja-cat/){:target="_blank"} and her invention of the ninja-cat definitely had a huge impact on Microsoft's culture. We are proud to carry it forward as mascot for the joint Microsoft + SAP journey.
 
@@ -29,23 +29,23 @@ By the way, which meme do you like best? Here are a couple for you to get as ins
 
 ![ninja cat riding unicorn over sap cloud](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-unicorn.png)
 
-<p style="text-align: center;">source: adaptation of original by <a href="https://www.linkedin.com/in/morgan-kipp-deegan/">Morgan Deegan</a></p>
+<p style="text-align: center;">source: adaptation of original by <a href="https://www.linkedin.com/in/morgan-kipp-deegan/" target="_blank">Morgan Deegan</a></p>
 
 ![ninja cat riding trex](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-shark.jpg)
 
-<p style="text-align: center;">source: <a href="https://blogs.windows.com/devices/2015/08/06/rock-the-ninjacat-riding-a-t-rex-on-your-lumia/"> Windows Blog</a></p>
+<p style="text-align: center;">source: <a href="https://blogs.windows.com/devices/2015/08/06/rock-the-ninjacat-riding-a-t-rex-on-your-lumia/" target="_blank"> Windows Blog</a></p>
 
 ![ninja cat with kong](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-kong-theverge.jpg)
 
-<p style="text-align: center;">source: <a href="https://www.theverge.com/2015/9/14/9324787/microsoft-windows-ninja-cat-windows-10-hardware-invite">the windows blog re-shared via the verge</a></p>
+<p style="text-align: center;">source: <a href="https://www.theverge.com/2015/9/14/9324787/microsoft-windows-ninja-cat-windows-10-hardware-invite" target="_blank">the windows blog re-shared via the verge</a></p>
 
 ![ninja cat jurassic park](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-jurassic.jpg)
 
-<p style="text-align: center;">source: <a href="https://twitter.com/DrMattSm/status/624601443014586369">Matt Simon via twitter</a></p>
+<p style="text-align: center;">source: <a href="https://twitter.com/DrMattSm/status/624601443014586369" target="_blank">Matt Simon via twitter</a></p>
 
 ![ninja cat beatles](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja-beatles.png)
 
-<p style="text-align: center;">source: <a href="https://twitter.com/MichaelGillett/status/623611994009149440">Michael Gillett via Twitter</a></p>
+<p style="text-align: center;">source: <a href="https://twitter.com/MichaelGillett/status/623611994009149440" target="_blank">Michael Gillett via Twitter</a></p>
 
 Since the former combined emoji has been [discontinued](https://emojipedia.org/ninja-cat/){:target="_blank"}, we use it now as below.
 

@@ -1,6 +1,6 @@
 ---
 layout: videos
 title: Video Channels
-icon: fas fa-video
+icon: fa-brands fa-youtube
 order: 1
 ---
