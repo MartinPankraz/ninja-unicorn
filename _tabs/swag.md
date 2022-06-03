@@ -1,7 +1,7 @@
 ---
 title: NFTs and Swag
 icon: fas fa-meteor
-order: 5
+order: 6
 ---
 
 In case you like the ninja cat as much as we do and you want to contribute to a good cause, you can own a unique copy of the mighty corporate ninja cat. It is listed on OpenSea as [Non-Fungible Token](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/11783757613988903679447251561396108328487509934080741039154825352755776847972/){:target="_blank"} (NFT). It is listed at the lowest possible price on OpenSea at the time of publishing (ETH of equivalent of ~5$).
