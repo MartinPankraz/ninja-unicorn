@@ -10,7 +10,7 @@ See below our public enablement offerings. These include:
 🧑🏿‍🏫workshops,
 🙌hands-on session materials,
 
-and more.
+and more...
 
 ## [SAP Microhack - CashFlow Prediction](https://github.com/thzandvl/microhack-sap-data/tree/DSAG){:target="\_blank"}
 
@@ -24,7 +24,7 @@ Find the repos [here](https://github.com/thzandvl/microhack-sap-data/tree/DSAG){
 
 Find the repos [here](https://github.com/microsoft/WhatTheHack){:target="\_blank"}.
 
-## [Microsoft Cloud Workshop: SAP plus extend and innovate](https://microsoftcloudworkshop.com/){:target="\_blank"}
+## [Microsoft Cloud Workshop: SAP plus extend and innovate](https://github.com/microsoft/MCW-SAP-plus-extend-and-innovate){:target="\_blank"}
 
 ![teaser image mcw](https://raw.githubusercontent.com/microsoft/MCW-SAP-plus-extend-and-innovate/main/Whiteboard%20design%20session/media/sap-with-microsoft-intelligent-edge.png)
 
