@@ -68,7 +68,7 @@ Now you have seen enough and want to make your hands dirty? Good news, you can d
 | Description | Source |
 | ----------- | ----------- |
 | The perfect start and a **must-see** | [Building Applications on SAP BTP with Microsoft Services \| openSAP](https://open.sap.com/courses/btpma1) |
-| SAP Discovery Center Missions providing use-cases for combing BTP and Microsoft Azure services | [Integrate Azure Data Explorer and SAP Data Warehouse Cloud](https://discovery-center.cloud.sap/missiondetail/3433/3473/)<br><br>[Establish security workflow between SAP and Microsoft apps (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3232/3236/)<br><br>[Extend your business workflow with Microsoft Teams & Outlook (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3674/3717/) |
+| SAP Discovery Center Missions providing use-cases for combing BTP and Microsoft Azure services | [Integrate Azure Data Explorer and SAP Data Warehouse Cloud](https://discovery-center.cloud.sap/missiondetail/3433/3473/)<br><br>[Establish security workflow between SAP and Microsoft apps (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3232/3236/)<br><br>[Extend your business workflow with Microsoft Teams & Outlook (cloud.sap)](https://discovery-center.cloud.sap/missiondetail/3674/3717/)<br><br>[Route traffic between SAP Cloud Integration tenants with Azure](https://discovery-center.cloud.sap/missiondetail/3603/3646/) |
 
 > 📝 Tip - [openSAP courses](https://open.sap.com/) guide you through the journey with lectures and assignments to foster learning whereas Discovery Center Missions focus more on the correct deployment of a solution.
 
@@ -102,12 +102,13 @@ LinkedIn is another source we like to bring to your attention namely the insight
 
 Find our searchable blog post gallery grouped by topic [here](https://martinpankraz.github.io/ninja-unicorn/).
 
-## 📢 Customer Engagement Initiatives and public BETAs
+## 📢 Customer Engagement Initiatives (CEI) and public BETAs
 
 Equally important for your future endeavour with SAP and Microsoft are Customer Engagement Initiatives (CEI) and BETA programs:
 
 * [Inviting you: Register soon to explore your event-driven pathway between SAP and Microsoft Azure | SAP Blogs](https://blogs.sap.com/2021/10/08/inviting-you-register-soon-to-explore-your-event-driven-pathway-between-sap-and-microsoft-azure/)
 * [SAP Private Link Service (BETA) is Available | SAP Blogs](https://blogs.sap.com/2021/06/28/sap-private-link-service-beta-is-available/)
+* [SAP Private Link service CEI - Jul 22 | SAP Customer Influence](https://influence.sap.com/sap/ino/#campaign/3118)
 
 ## 🦸 Meet the community members
 
