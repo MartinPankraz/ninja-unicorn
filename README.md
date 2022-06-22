@@ -107,7 +107,7 @@ Find our searchable blog post gallery grouped by topic [here](https://martinpank
 Equally important for your future endeavour with SAP and Microsoft are Customer Engagement Initiatives (CEI) and BETA programs:
 
 * [Inviting you: Register soon to explore your event-driven pathway between SAP and Microsoft Azure | SAP Blogs](https://blogs.sap.com/2021/10/08/inviting-you-register-soon-to-explore-your-event-driven-pathway-between-sap-and-microsoft-azure/)
-* [SAP Private Link Service (BETA) is Available | SAP Blogs](https://blogs.sap.com/2021/06/28/sap-private-link-service-beta-is-available/)
+* [SAP Private Link Service GA announcement after public Beta | SAP Blogs](https://blogs.sap.com/2022/06/22/sap-private-link-service-on-azure-is-now-generally-available-ga)
 * [SAP Private Link service CEI - Jul 22 | SAP Customer Influence](https://influence.sap.com/sap/ino/#campaign/3118)
 
 ## 🦸 Meet the community members
