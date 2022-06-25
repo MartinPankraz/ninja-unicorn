@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Jwijxe-1UEQ"><img width="100%" src="https://i.ytimg.com/vi/Jwijxe-1UEQ/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=Jwijxe-1UEQ">#97 - The one with the Health &amp; Inventory Check for SAP &lpar;Jitendra Singh &amp; Ross Sponholtz&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=d4lwugF4NIA"><img width="100%" src="https://i.ytimg.com/vi/d4lwugF4NIA/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=d4lwugF4NIA">#98 - The one with Different Low-code platforms working together &lpar;Holger Bruchelt&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
