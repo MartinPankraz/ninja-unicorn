@@ -21,3 +21,9 @@ Find the repos [here](https://github.com/thzandvl/microhack-sap-data/tree/DSAG){
 ## [OpenSAP - Building Applications on SAP BTP with Microsoft Services](https://open.sap.com/courses/btpma1){:target="\_blank"}
 
 ![teaser image opensap](https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/opensap.png)
+
+## [WhatTheHack - SAP on Azure Application Modernization](https://github.com/microsoft/WhatTheHack){:target="\_blank"}
+
+![teaser image whatthehack](https://raw.githubusercontent.com/microsoft/WhatTheHack/master/assets/images/wth-logo-2.png)
+
+Find the repos [here](https://github.com/microsoft/WhatTheHack/tree/master/052-SAPAppModernization){:target="\_blank"}.
