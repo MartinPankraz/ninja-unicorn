@@ -6,9 +6,10 @@ labels: ''
 assignees: MartinPankraz
 
 ---
+
 {
 "title": "",
-"authorName": "", 
+"authorName (not link!)": "Martin Pankraz", 
 "authorSocial": "https://people.sap.com/martin-pankraz",
 "publishDate": "YYYY-MM-DD",
 "sneakPeek": "A quick intro into the topic. Typically copy from first section."
