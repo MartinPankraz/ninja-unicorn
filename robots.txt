@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://martinpankraz.github.io/ninja-unicorn//ninja-unicorn/sitemap.xml
