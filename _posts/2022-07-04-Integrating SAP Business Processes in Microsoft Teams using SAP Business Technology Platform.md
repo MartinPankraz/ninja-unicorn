@@ -8,7 +8,7 @@ categories: [INTEGRATION, TEAMS] # category should be a topic and sub-category p
 tags: [sap-btp,sap-event-mesh,s4,teams,private-link,chatbot,aad]     # TAG names should always be lowercase
 
 author:
-  name: [Uma Anbazhagan](https://people.sap.com/anbazhagan_uma)
+  name: Uma Anbazhagan
   link: https://people.sap.com/anbazhagan_uma
 
 comments: false
