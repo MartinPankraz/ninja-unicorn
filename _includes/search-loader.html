@@ -24,7 +24,7 @@ SimpleJekyllSearch({
   searchResultTemplate: '{{ result_elem | strip_newlines }}',
   noResultsText: '{{ not_found }}',
   debounceTime: 500,
-  limit: 20,
+  limit: 40,
   templateMiddleware: function(prop, value, template) {
     if (prop === 'categories') {
       if (value === '') {
