@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9E-VpFhV0fM"><img width="100%" src="https://i.ytimg.com/vi/9E-VpFhV0fM/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=9E-VpFhV0fM">#104 - The one with SAP Business Processes in Microsoft Teams &lpar;Uma Anbazhagan&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pribTz-IpQc"><img width="100%" src="https://i.ytimg.com/vi/pribTz-IpQc/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=pribTz-IpQc">#105 - The one with SAP on Oracle on Azure &lpar;Cameron Gardiner&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
