@@ -91,8 +91,8 @@ Latest edition:
 
 Latest edition:
 
-<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk"><img width="100%" src="https://i.ytimg.com/vi/BHBgQ45fgIk/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk">#QuickGlance - the btp-setup-automator</a></td></tr></table><!-- YOUTUBEMNW:END -->
+<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eLiD3E7tPYo"><img width="100%" src="https://i.ytimg.com/vi/eLiD3E7tPYo/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=eLiD3E7tPYo">#QuickGlance - Azure Developer CLI &lpar;part 1&rpar;: Getting started</a></td></tr></table><!-- YOUTUBEMNW:END -->
 
 ### 💬 LinkedIn
 
