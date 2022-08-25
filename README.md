@@ -91,8 +91,8 @@ Latest edition:
 
 Latest edition:
 
-<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1xGbZRqEkb0"><img width="100%" src="https://i.ytimg.com/vi/1xGbZRqEkb0/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=1xGbZRqEkb0">#QuickGlance - Azure Developer CLI &lpar;part 3&rpar;: Closer look at azd</a></td></tr></table><!-- YOUTUBEMNW:END -->
+<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=O7o68rdtas0"><img width="100%" src="https://i.ytimg.com/vi/O7o68rdtas0/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=O7o68rdtas0">#QuickGlance - Azure Developer CLI &lpar;part 4&rpar; – Monitoring</a></td></tr></table><!-- YOUTUBEMNW:END -->
 
 ### 💬 LinkedIn
 
