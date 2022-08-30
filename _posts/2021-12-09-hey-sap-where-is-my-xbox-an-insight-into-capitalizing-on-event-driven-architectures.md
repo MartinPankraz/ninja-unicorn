@@ -5,7 +5,7 @@ medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2021-12-09 06:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [EVENTING, SERVICE_BUS] # category should be a topic and sub-category primary product
-tags: [logic-app, notification-hub, cosmos-db, azure-functions, abap-sdk, sap-workflow ]     # TAG names should always be lowercase
+tags: [logic-apps, notification-hub, cosmos-db, azure-functions, abap-sdk, sap-workflow ]     # TAG names should always be lowercase
 
 author:
   name: Martin Pankraz

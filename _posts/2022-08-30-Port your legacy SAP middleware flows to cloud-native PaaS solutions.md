@@ -8,7 +8,7 @@ categories: [INTEGRATION, LOGIC_APPS] # category should be a topic and sub-categ
 tags: [sap-btp,service-bus,logic-apps,event-grid]     # TAG names should always be lowercase
 
 author:
-  name: 
+  name: Martin Pankraz
   link: https://people.sap.com/martin-pankraz
 
 comments: false
