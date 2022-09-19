@@ -91,8 +91,8 @@ Latest edition:
 
 Latest edition:
 
-<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8aYp1izOijk"><img width="100%" src="https://i.ytimg.com/vi/8aYp1izOijk/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=8aYp1izOijk">#QuickGlance - Azure Developer CLI &lpar;part 7&rpar;: Wrap Up</a></td></tr></table><!-- YOUTUBEMNW:END -->
+<!-- YOUTUBEMNW:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9jXC_AjrcaU"><img width="100%" src="https://i.ytimg.com/vi/9jXC_AjrcaU/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=9jXC_AjrcaU">#QuickGlance - Azure Developer CLI - September Update</a></td></tr></table><!-- YOUTUBEMNW:END -->
 
 ### 💬 LinkedIn
 
