@@ -8,7 +8,7 @@ categories: [DATA_EXTRACTION, AZURE_DATA_FACTORY] # category should be a topic a
 tags: [cdc,getting-started,synapse]     # TAG names should always be lowercase
 
 author:
-  name: 
+  name: Bartosz Jarkowski
   link: https://people.sap.com/bjarkowski
 
 comments: false
