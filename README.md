@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G83GbqxmV-k"><img width="100%" src="https://i.ytimg.com/vi/G83GbqxmV-k/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=G83GbqxmV-k">#113 - The one with SAP Release Management using Azure DevOps &lpar;Jaganmohan Reddy, Ram Gudupalli&rpar; |</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ryiAsi18vIk"><img width="100%" src="https://i.ytimg.com/vi/ryiAsi18vIk/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=ryiAsi18vIk">#114 - The one with Azure Functions SDK for SAP &lpar;Martin Pankraz, Will Eastbury&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
