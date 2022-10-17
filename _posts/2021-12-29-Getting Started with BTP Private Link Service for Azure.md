@@ -1,5 +1,5 @@
 ---
-title: Getting Started with BTP Private Link Service for Azure
+title: Getting Started with SAP Private Link Service for Azure
 origurl: https://blogs.sap.com/2021/12/29/getting-started-with-btp-private-link-service-for-azure/
 medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2021-12-29 06:00:00 +/0100

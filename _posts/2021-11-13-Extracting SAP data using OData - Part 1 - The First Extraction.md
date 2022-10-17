@@ -13,7 +13,7 @@ author:
 
 comments: false
 
-pin: true
+pin: false
 ---
 
 One of the greatest opportunities of having SAP on Azure is the rich portfolio of integration services, especially focusing on data. And one of the best use cases for using SAP data on Azure is the possibility of blending it with data coming from external sources. The last ten years have proven that while SAP is one of the most important IT solutions for many customers, it’s not the only one. We witness a significant shift from having a single solution towards implementing multiple specialized systems surrounding the core ERP functionalities.
