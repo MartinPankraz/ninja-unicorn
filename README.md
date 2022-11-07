@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PYwCkGA-XdM"><img width="100%" src="https://i.ytimg.com/vi/PYwCkGA-XdM/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=PYwCkGA-XdM">#117 - Integrating SAP Digital Supply Chain with Microsoft &lpar;Domnic Benedict &amp; Bartosz Jarkowski&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f-2MdcpntH0"><img width="100%" src="https://i.ytimg.com/vi/f-2MdcpntH0/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=f-2MdcpntH0">Getting started with Eventing: How to setup SAP Event Mesh with Azure Event Grid</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
