@@ -84,8 +84,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R5aFI5OKuGg"><img width="100%" src="https://i.ytimg.com/vi/R5aFI5OKuGg/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=R5aFI5OKuGg">#118 - The one with the New SAP Connector for Power Platform &lpar;Jon Gilman&rpar; | SAP on Azure Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=exsKgZH6lfU"><img width="100%" src="https://i.ytimg.com/vi/exsKgZH6lfU/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=exsKgZH6lfU">#119 - The one with Updates to the SAP CDC Connector &lpar;Ulrich Christ&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
