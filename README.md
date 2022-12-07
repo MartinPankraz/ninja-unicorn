@@ -109,6 +109,7 @@ Equally important for your future endeavour with SAP and Microsoft are Customer 
 * [Inviting you: Register soon to explore your event-driven pathway between SAP and Microsoft Azure | SAP Blogs](https://blogs.sap.com/2021/10/08/inviting-you-register-soon-to-explore-your-event-driven-pathway-between-sap-and-microsoft-azure/)
 * [SAP Private Link Service GA announcement after public Beta | SAP Blogs](https://blogs.sap.com/2022/06/22/sap-private-link-service-on-azure-is-now-generally-available-ga)
 * [SAP Private Link service CEI - Jul 22 | SAP Customer Influence](https://influence.sap.com/sap/ino/#campaign/3118)
+* [SAP Early Adopter Care | SAP S/4HANA Cloud - MS Teams Integration](https://influence.sap.com/sap/ino/#campaign/3051)
 
 ## 🦸 Meet the community members
 
