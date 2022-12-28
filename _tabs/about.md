@@ -6,7 +6,7 @@ order: 7
 
 This site is a structured conglomerate of all the great sources out there around SAP + Microsoft.
 
-Start your **integration journey** and keep up to date with the latest community efforts and BETAs from our [landing page](https://github.com/MartinPankraz/ninja-unicorn){:target="_blank"}.
+Start your **integration journey** and keep up to date with the latest community efforts and BETAs from our [landing page](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/integration-get-started){:target="_blank"}.
 
 ## Where does the [ninja cat meme](https://devblogs.microsoft.com/oldnewthing/20160804-00/?p=94025){:target="_blank"} 🥷🐱 come from?
 
