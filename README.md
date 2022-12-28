@@ -4,6 +4,8 @@
 
 This repository contains everything you need to get started with joint Microsoft + SAP scenarios. The repos content complements the SAP community posts, our SAP+Microsoft YouTube Channel and webcasts as well as the open-source contributions on GitHub made by an amazing group of contributors!
 
+📢Find the official Microsoft + SAP landing page [here](https://learn.microsoft.com/azure/virtual-machines/workloads/sap/integration-get-started).
+
 For your weekly news from the SAP+Microsoft world follow the mentioned [YouTube channels](https://github.com/MartinPankraz/ninja-unicorn#-youtube-channels).
 
 To get a first impression about the limitless opportunities of extending SAP applications with Microsoft and Azure services, this Azure Friday episode is a perfect starting point:
