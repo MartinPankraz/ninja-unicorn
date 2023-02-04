@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lkbA-IX1EP0"><img width="100%" src="https://i.ytimg.com/vi/lkbA-IX1EP0/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=lkbA-IX1EP0">128 - The one with Oracle ASM configuration &lpar;Cameron Gardiner&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f6vln0_Xl0g"><img width="100%" src="https://i.ytimg.com/vi/f6vln0_Xl0g/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=f6vln0_Xl0g">#129 - The one with Storage Options with SAP on Azure &lpar;Siddhartha Rabindran&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
