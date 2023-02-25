@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EAlVkf3FK-4"><img width="100%" src="https://i.ytimg.com/vi/EAlVkf3FK-4/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=EAlVkf3FK-4">#131 - The one with Scenarios with SAP and Power Platform &lpar;Ronald Knienieder&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6az_vEq0bEg"><img width="100%" src="https://i.ytimg.com/vi/6az_vEq0bEg/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=6az_vEq0bEg">#132 - The one with a Hands-on workshop integrating SAP and Microsoft</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
