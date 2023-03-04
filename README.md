@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6az_vEq0bEg"><img width="100%" src="https://i.ytimg.com/vi/6az_vEq0bEg/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=6az_vEq0bEg">#132 - The one with a Hands-on workshop integrating SAP and Microsoft</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wGjWrLglueA"><img width="100%" src="https://i.ytimg.com/vi/wGjWrLglueA/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=wGjWrLglueA">#133 - The one with students building SAP and Power Platform Solutions &lpar;Christian Drumm&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
