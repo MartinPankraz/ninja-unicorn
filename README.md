@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yp_yLlHNRVw"><img width="100%" src="https://i.ytimg.com/vi/yp_yLlHNRVw/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=yp_yLlHNRVw">Power Platform + SAP - Installing the On-premises Data Gateway</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GeY2haei_kw"><img width="100%" src="https://i.ytimg.com/vi/GeY2haei_kw/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=GeY2haei_kw">#138 - The one with Azure Open AI and SAP S/4HANA &lpar;Chan Jin Park&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
