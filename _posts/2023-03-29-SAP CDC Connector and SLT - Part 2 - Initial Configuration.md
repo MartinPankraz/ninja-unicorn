@@ -5,7 +5,7 @@ medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2023-03-29 12:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [DATA_EXTRACTION, SYNAPSE] # category should be a topic and sub-category primary product
-tags: [cdc,getting-started,synapse,slt]     # TAG names should always be lowercase
+tags: [cdc,getting-started,synapse,slt,adf]     # TAG names should always be lowercase
 
 author:
   name: Bartosz Jarkowski
