@@ -12,6 +12,10 @@ See below our public enablement offerings. These include:
 
 and more...
 
+## [HandsOn session at DSAG Tech Days 2023 |🕵️ Security-Insights 2 Action with SOAR🚀 - Automatic locking of users on suspicious activity in SAP systems with Sentinel](https://github.com/MartinPankraz/Security-Insights-2-Action){:target="\_blank"}
+
+## [DSAG Developer Day 2023 | Wander across the worlds of SAP and Microsoft - Journey of an ABAP'er](https://github.com/MartinPankraz/ABAP-Developer-Day){:target="\_blank"}
+
 ## [SAP Microhack - CashFlow Prediction](https://github.com/thzandvl/microhack-sap-data/tree/DSAG){:target="\_blank"}
 
 ![teaser image microhack](https://raw.githubusercontent.com/thzandvl/microhack-sap-data/DSAG/images/overview/ScenarioOverview-dark.png)
