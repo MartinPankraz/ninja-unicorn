@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hh07b5OhVPs"><img width="100%" src="https://i.ytimg.com/vi/hh07b5OhVPs/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=hh07b5OhVPs">Power Platform + SAP - Calling &quot;Remote Function Call&quot; &lpar;RFC&rpar; in SAP</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M5b5Vo0aCak"><img width="100%" src="https://i.ytimg.com/vi/M5b5Vo0aCak/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=M5b5Vo0aCak">#139 - The one with the Power Platform &amp; SAP Roadshow &lpar;Mahesh Iyer &amp; Marlene Willersinn&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
