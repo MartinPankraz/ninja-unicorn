@@ -1,6 +1,6 @@
 ---
 title: SDKs
-icon: fas fa-unicorn
+icon: fas fa-pegasus
 order: 2
 ---
 
