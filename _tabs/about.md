@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 7
+order: 8
 ---
 
 This site is a structured conglomerate of all the great sources out there around SAP + Microsoft.

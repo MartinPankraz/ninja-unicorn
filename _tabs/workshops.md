@@ -1,7 +1,7 @@
 ---
 title: ☯ Training
 icon: fas fa-cat
-order: 5
+order: 6
 ---
 
 See below our public enablement offerings. These include:
