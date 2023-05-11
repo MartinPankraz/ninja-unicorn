@@ -35,7 +35,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://gallery.integration-ninjas.co.in'
 
 github:
-  username: MartinPankraz             # change to your github username
+  username: MartinPankraz/ninja-unicorn             # change to your github username
 
 twitter:
   username: martinpankraz            # change to your twitter username
