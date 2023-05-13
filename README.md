@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lsmIS-tzTmU"><img width="100%" src="https://i.ytimg.com/vi/lsmIS-tzTmU/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=lsmIS-tzTmU">Power Platform + SAP - Troubleshooting the On-premises Data Gateway setup</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ljjtQM66lX4"><img width="100%" src="https://i.ytimg.com/vi/ljjtQM66lX4/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=ljjtQM66lX4">#143 - The one with Neptune Software and M365 &lpar;Marin Fischer &amp; Abesh Bhattacharjee&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
