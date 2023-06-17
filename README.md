@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2vwR9XKty6s"><img width="100%" src="https://i.ytimg.com/vi/2vwR9XKty6s/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=2vwR9XKty6s">#146 - The one with MaxDB HA on Windows Cluster &lpar;Steffen Müller&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G4FTPiCeE8o"><img width="100%" src="https://i.ytimg.com/vi/G4FTPiCeE8o/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=G4FTPiCeE8o">#147 - The one with HANA scale-out N+N Architectures &lpar;Abbas Ali Mir &amp; Momin Qureshi&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
