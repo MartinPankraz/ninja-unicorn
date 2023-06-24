@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G4FTPiCeE8o"><img width="100%" src="https://i.ytimg.com/vi/G4FTPiCeE8o/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=G4FTPiCeE8o">#147 - The one with HANA scale-out N+N Architectures &lpar;Abbas Ali Mir &amp; Momin Qureshi&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=s6lnHb_o8eQ"><img width="100%" src="https://i.ytimg.com/vi/s6lnHb_o8eQ/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=s6lnHb_o8eQ">#148 - The one with Visual Studio and Power Platform &lpar;Robert Boban&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
