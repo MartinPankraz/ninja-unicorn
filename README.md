@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BEEXnCNrpZE"><img width="100%" src="https://i.ytimg.com/vi/BEEXnCNrpZE/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=BEEXnCNrpZE">#150 - The one with Azure DDoS Protection for SAP workloads &lpar;Evren Buyruk &amp; Amir Dahan&rpar; | SAPonAzure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rtENmIqRNHI"><img width="100%" src="https://i.ytimg.com/vi/rtENmIqRNHI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=rtENmIqRNHI">#151 - The one with SAP CAP and Azure Cosmos DB &lpar;Volker Buzek &amp; Martin Pankraz&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
