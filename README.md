@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZRz3dYoHGpM"><img width="100%" src="https://i.ytimg.com/vi/ZRz3dYoHGpM/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=ZRz3dYoHGpM">#154 - The one with Oracle multi-volume performance with Azure NetApp Files &lpar;Geert van Teylingen&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kLf3TcTYHeM"><img width="100%" src="https://i.ytimg.com/vi/kLf3TcTYHeM/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=kLf3TcTYHeM">#155 - The one with VMSS Flex for SAP &lpar;Ralitza Deltcheva &amp; Dennis Padia&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
