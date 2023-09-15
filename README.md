@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ynycc7m7zpk"><img width="100%" src="https://i.ytimg.com/vi/Ynycc7m7zpk/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=Ynycc7m7zpk">#159 - The one with Fusing SAP and Microsoft &lpar;James Wood &amp; Paul Modderman&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZrxepEoHUpI"><img width="100%" src="https://i.ytimg.com/vi/ZrxepEoHUpI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=ZrxepEoHUpI">Building GPT-4 powered bots for SAP enterprise data on Microsoft Teams: A Low-Code Approach</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
