@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=emUAVLy9R_0"><img width="100%" src="https://i.ytimg.com/vi/emUAVLy9R_0/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=emUAVLy9R_0">#162 - The one with Developing with the AI SDK for SAP &lpar;Gopal Nair&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GNK96E9s-ac"><img width="100%" src="https://i.ytimg.com/vi/GNK96E9s-ac/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=GNK96E9s-ac">#163 - The one with the UI5 Spreadsheet Importer &lpar;Marian Zeis&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
