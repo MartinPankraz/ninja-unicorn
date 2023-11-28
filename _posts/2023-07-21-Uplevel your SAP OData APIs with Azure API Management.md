@@ -1,6 +1,6 @@
 ---
 title: Up-level your SAP OData APIs with Azure API Management
-origurl: https://blogs.sap.com/2023/06/30/sap-s-4hana-cloud-abap-environment-integration-journey-with-microsoft-part-1/
+origurl: https://blogs.sap.com/2023/07/21/up-level-your-sap-odata-apis-with-azure-api-management/
 medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2023-07-21 12:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
