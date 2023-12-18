@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IC0qsutvSvE"><img width="100%" src="https://i.ytimg.com/vi/IC0qsutvSvE/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=IC0qsutvSvE">#172 - The one with Breaking silos &lpar;Robert Boban, Goran Condric, Holger Bruchelt&rpar; | SAPonAzure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mez5qIZmrfM"><img width="100%" src="https://i.ytimg.com/vi/mez5qIZmrfM/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=mez5qIZmrfM">Power Platform + SAP: Updates via SAP OData services</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
