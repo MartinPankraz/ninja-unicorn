@@ -86,8 +86,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VSQkCLQw-oY"><img width="100%" src="https://i.ytimg.com/vi/VSQkCLQw-oY/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=VSQkCLQw-oY">#173 - The one wrapping up 2023 &lpar;Jürgen Thomas&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H1lvtg5tm44"><img width="100%" src="https://i.ytimg.com/vi/H1lvtg5tm44/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=H1lvtg5tm44">#174 - The one with Extending SAP Digital Manufacturing with Azure &lpar;Martin Raepple, Bastian Ulke&rpar; |</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
