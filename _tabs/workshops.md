@@ -12,6 +12,8 @@ See below our public enablement offerings. These include:
 
 and more...
 
+## [DSAG TechXChange 2024 - Microsoft track | - CAP on Azure, Build your own ChatGPT & ABAP Cloud with Microsoft AI](https://github.com/MartinPankraz/DSAGTechXChange24/){:target="\_blank"}
+
 ## [HandsOn session at DSAG Tech Days 2023 |🕵️ Security-Insights 2 Action with SOAR🚀 - Automatic locking of users on suspicious activity in SAP systems with Sentinel](https://github.com/MartinPankraz/Security-Insights-2-Action){:target="\_blank"}
 
 ## [DSAG Developer Day 2023 | Wander across the worlds of SAP and Microsoft - Journey of an ABAP'er](https://github.com/MartinPankraz/ABAP-Developer-Day){:target="\_blank"}
