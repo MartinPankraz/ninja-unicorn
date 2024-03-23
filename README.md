@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RHuEUUmLPtM"><img width="100%" src="https://i.ytimg.com/vi/RHuEUUmLPtM/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=RHuEUUmLPtM">#183 - The one with SAP GUI MFA mit Entra ID &lpar;Martin Raepple &amp; Christan Cohrs&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qk7mKAt2_aQ"><img width="100%" src="https://i.ytimg.com/vi/qk7mKAt2_aQ/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=qk7mKAt2_aQ">#184 - The one with SAP API Management and Entra ID &lpar;Vinayak Adkoli&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
