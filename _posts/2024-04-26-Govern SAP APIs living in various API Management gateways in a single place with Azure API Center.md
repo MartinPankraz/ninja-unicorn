@@ -13,7 +13,7 @@ author:
 
 comments: false
 
-pin: false
+pin: true
 ---
 Due to the fast-paced growth of APIs within organizations, inventory, governance, security, and management cannot keep up. The resulting fragmentation and inconsistency lead to adoption challenges, project delays, and security risks. Postman’s [State of APIs report 2023](https://www.postman.com/state-of-api/executing-on-apis/#frequency-of-api-security-incidents) shows that API security incidents happen frequently.
 

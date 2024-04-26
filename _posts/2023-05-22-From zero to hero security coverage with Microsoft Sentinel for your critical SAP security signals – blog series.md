@@ -13,7 +13,7 @@ author:
 
 comments: false
 
-pin: true
+pin: false
 ---
 Dear community,
 
