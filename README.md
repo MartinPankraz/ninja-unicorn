@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zr4GfbLeDo8"><img width="100%" src="https://i.ytimg.com/vi/zr4GfbLeDo8/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=zr4GfbLeDo8">Power Platform + SAP: Creating data in SAP from Power Apps via Power Automate &amp; OData</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vUrmTOZkmXI"><img width="100%" src="https://i.ytimg.com/vi/vUrmTOZkmXI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=vUrmTOZkmXI">#189 - The one with Printing from SAP with Microsoft Universal Print &lpar;Devansh Jain &amp; Martin Pankraz&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
