@@ -89,7 +89,7 @@ YouTube is of course one source for collecting information. There are two format
 Latest edition:
 
 <!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YfL5jVB6HT8"><img width="100%" src="https://i.ytimg.com/vi/YfL5jVB6HT8/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=YfL5jVB6HT8">04 ODatawithOPDG</a></td></tr></table><!-- YOUTUBESOA:END -->
+<td><a href="https://www.youtube.com/watch?v=YfL5jVB6HT8">Power Platform + SAP: Accessing local SAP services via the on-prem data gateway</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
