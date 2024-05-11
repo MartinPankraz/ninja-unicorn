@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nTinRxYsebI"><img width="100%" src="https://i.ytimg.com/vi/nTinRxYsebI/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=nTinRxYsebI">#190 - The one with SAP &amp; Microsoft Defender &lpar;Ankit Garg,Gopalakrishnan Krishnan &amp; Cameron Gardiner&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-xc9KQF9c8E"><img width="100%" src="https://i.ytimg.com/vi/-xc9KQF9c8E/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=-xc9KQF9c8E">#191 - The one with operating SAP with Azure Center for SAP Solutions &lpar;Kalyani Namuduri&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
