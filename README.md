@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BeWaAjfKEwI"><img width="100%" src="https://i.ytimg.com/vi/BeWaAjfKEwI/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=BeWaAjfKEwI">#195 - The one with Azure Backup for SAP &lpar;Pradeep Saran Burle Venkata &amp; Tunde Azeez&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OS3Fx4r8t8o"><img width="100%" src="https://i.ytimg.com/vi/OS3Fx4r8t8o/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=OS3Fx4r8t8o">#196 - The one with Azure Monitor for SAP solutions &lpar;Sujay Jain &amp; Akarsh Prabhu&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
