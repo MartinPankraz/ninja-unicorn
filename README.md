@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DNc47iRzZ54"><img width="100%" src="https://i.ytimg.com/vi/DNc47iRzZ54/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=DNc47iRzZ54">#198 - The one with Zero Trust Security Principles for SAP &lpar;Evren Buyruk,Daniel Mauser,Joe Speziale&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z4_z8UX3_P0"><img width="100%" src="https://i.ytimg.com/vi/Z4_z8UX3_P0/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=Z4_z8UX3_P0">#199 - The one with updates on Azure NetApp Files &lpar;Geert van Teylingen&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
