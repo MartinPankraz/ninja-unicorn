@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eFZ_hrBtOmM"><img width="100%" src="https://i.ytimg.com/vi/eFZ_hrBtOmM/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=eFZ_hrBtOmM">#202 - The one with Options with Copilot and SAP &lpar;Robert Hernandez&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XW4-4X_F3tI"><img width="100%" src="https://i.ytimg.com/vi/XW4-4X_F3tI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=XW4-4X_F3tI">#203 - The one with SAP IDM and Entra ID &lpar;Jannis Rondorf, Chris Radkowski, Mark Wahl,Martin Raepple&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
