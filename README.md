@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7M0C_-tsa2Q"><img width="100%" src="https://i.ytimg.com/vi/7M0C_-tsa2Q/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=7M0C_-tsa2Q">#204 - The one with expanded SSO for SAP Connectors &lpar;Shailja Nair, Martin Pankraz&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qPnYwYR0a9E"><img width="100%" src="https://i.ytimg.com/vi/qPnYwYR0a9E/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=qPnYwYR0a9E">#205 - The one behind the scene with Copilot Studio and SAP &lpar;Noopur Vaishnav&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
