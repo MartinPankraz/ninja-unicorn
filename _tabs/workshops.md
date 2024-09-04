@@ -12,6 +12,8 @@ See below our public enablement offerings. These include:
 
 and more...
 
+## [DSAG SAP hacker in a day 2024 | SAP security red team vs. blue team hands on workshop](https://github.com/MartinPankraz/sap-hacker-in-a-day/){:target="\_blank"}
+
 ## [DSAG TechXChange 2024 - Microsoft track | - CAP on Azure, Build your own ChatGPT & ABAP Cloud with Microsoft AI](https://github.com/MartinPankraz/DSAGTechXChange24/){:target="\_blank"}
 
 ## [HandsOn session at DSAG Tech Days 2023 |🕵️ Security-Insights 2 Action with SOAR🚀 - Automatic locking of users on suspicious activity in SAP systems with Sentinel](https://github.com/MartinPankraz/Security-Insights-2-Action){:target="\_blank"}
