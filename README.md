@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rn3EMXX28EE"><img width="100%" src="https://i.ytimg.com/vi/rn3EMXX28EE/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=rn3EMXX28EE">#208 - The one with Sentinel for SAP BTP &lpar;Will King, Yossi Hasson, Martin Pankraz&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3NE54mfSPRU"><img width="100%" src="https://i.ytimg.com/vi/3NE54mfSPRU/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=3NE54mfSPRU">#209 - The one with talking about RISE with SAP &lpar;Robert Boban&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
