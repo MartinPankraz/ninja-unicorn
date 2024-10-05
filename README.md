@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sJe8xTt1TL8"><img width="100%" src="https://i.ytimg.com/vi/sJe8xTt1TL8/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=sJe8xTt1TL8">#210 - The one with 32TB VMs for SAP HANA &lpar;Abbas Ali Mir, Ralf Klahr, Momin Qureshi, Chris Nolan&rpar; |</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nQplgEHASAI"><img width="100%" src="https://i.ytimg.com/vi/nQplgEHASAI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=nQplgEHASAI">#211 - The one with SSO with SAP API Management and Power Platform &lpar;Vinayak Adkoli &amp; Martin Pankraz&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
