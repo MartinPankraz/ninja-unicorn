@@ -1,5 +1,5 @@
 ---
-title: Identity and Access Management with Microsoft Entra, Part I: Managing access to SAP BTP
+title: Identity and Access Management with Microsoft Entra, Part I - Managing access to SAP BTP
 origurl: https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276
 medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2024-09-25 12:00:00 +/0100
