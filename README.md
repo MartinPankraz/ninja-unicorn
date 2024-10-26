@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2j-OOTBkWUU"><img width="100%" src="https://i.ytimg.com/vi/2j-OOTBkWUU/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=2j-OOTBkWUU">#213 - The one with SAP Teched Recap and SAP BTP on Azure News &lpar;Peter Büermann&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=i9Q5KLoYXmM"><img width="100%" src="https://i.ytimg.com/vi/i9Q5KLoYXmM/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=i9Q5KLoYXmM">#214 - The one with DSAG Jahreskongress 2024  &lpar;Martin Fischer&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
