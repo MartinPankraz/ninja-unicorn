@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yFINenYNY4E"><img width="100%" src="https://i.ytimg.com/vi/yFINenYNY4E/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=yFINenYNY4E">#217 - The one with updates to the SAP Landing Zone Accelerator &lpar;Pankaj Meshram&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bpZ2i4n0YbI"><img width="100%" src="https://i.ytimg.com/vi/bpZ2i4n0YbI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=bpZ2i4n0YbI">Consuming Events from SAP: Webhooks &amp; Power Automate</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
