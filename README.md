@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6zFoWbYwX4I"><img width="100%" src="https://i.ytimg.com/vi/6zFoWbYwX4I/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=6zFoWbYwX4I">#220 - The one with Premium v2 storage &lpar;Robert Biro&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=E70LAW2fsoQ"><img width="100%" src="https://i.ytimg.com/vi/E70LAW2fsoQ/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=E70LAW2fsoQ">#221 - The one with Scalability in the Cloud &lpar;Anbu, Sathish Thirunethiram, Denny Koovakattu&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
