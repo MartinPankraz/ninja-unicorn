@@ -1,5 +1,5 @@
 ---
-title: SAP GUI MFA with Microsoft Entra (Part II): Integration with Microsoft Entra Private Access
+title: SAP GUI MFA with Microsoft Entra (Part II) - Integration with Microsoft Entra Private Access
 origurl: https://community.sap.com/t5/technology-blogs-by-members/sap-gui-mfa-with-microsoft-entra-part-ii-integration-with-microsoft-entra/ba-p/13691141
 medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2024-12-06 12:00:00 +/0100
