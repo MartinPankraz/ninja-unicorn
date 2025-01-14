@@ -1,5 +1,5 @@
 ---
-title: Microsoft Sentinel for SAP goes agentless
+title: Getting Started with SAP SNC for RFC integrations
 origurl: https://community.sap.com/t5/enterprise-resource-planning-blogs-by-members/getting-started-with-sap-snc-for-rfc-integrations/ba-p/13983462
 medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2025-01-12 12:00:00 +/0100
