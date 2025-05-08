@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://gallery.integration-ninjas.co.in/sitemap.xml
