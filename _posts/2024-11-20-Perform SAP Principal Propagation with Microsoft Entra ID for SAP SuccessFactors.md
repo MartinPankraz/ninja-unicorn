@@ -5,7 +5,7 @@ medium: blog #blog, github repos, linkedIn article, partner pages
 date: 2024-11-20 12:00:00 +/0100
 # PLEASE ensure consistent categories and tags to keep the search/filtering meaningful!
 categories: [INTEGRATION, ENTRA_ID] # category should be a topic and sub-category primary product
-tags: [entra-id-governancen,sap-btp,sap-ias,sap-idm,successfactors]     # TAG names should always be lowercase
+tags: [entra-id-governance,sap-btp,sap-ias,sap-idm,successfactors]     # TAG names should always be lowercase
 
 author:
   name: Martin Pankraz

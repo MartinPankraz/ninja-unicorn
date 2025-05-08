@@ -12,6 +12,8 @@ See below our public enablement offerings. These include:
 
 and more...
 
+## [DSAG TechXChange 2025 - Microsoft track | - Copilot Studio with SAP, Build your own Agents, Sentinel with SAP ETD Cloud hack, Secure App integration with APIM, Mastering SAP IDM to Entra ID](https://github.com/MartinPankraz/DSAGTechXChange25/){:target="\_blank"}
+
 ## [DSAG SAP hacker in a day 2024 | SAP security red team vs. blue team hands on workshop](https://github.com/MartinPankraz/sap-hacker-in-a-day/){:target="\_blank"}
 
 ## [DSAG TechXChange 2024 - Microsoft track | - CAP on Azure, Build your own ChatGPT & ABAP Cloud with Microsoft AI](https://github.com/MartinPankraz/DSAGTechXChange24/){:target="\_blank"}
