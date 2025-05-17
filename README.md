@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pwMavM48rxM"><img width="100%" src="https://i.ytimg.com/vi/pwMavM48rxM/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=pwMavM48rxM">#240 - Dropping credentials from SAP Principal Propagation &lpar;Martin Pankraz&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FWM3CoPhmI4"><img width="100%" src="https://i.ytimg.com/vi/FWM3CoPhmI4/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=FWM3CoPhmI4">#241 - TOW SAP Testing Automation Framework &lpar;Dennis Padia, Devansh Jain, Hemanth Damecharla&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
