@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XQCKUGEbu9w"><img width="100%" src="https://i.ytimg.com/vi/XQCKUGEbu9w/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=XQCKUGEbu9w">#242 - TOW SAP LeanIX and Microsoft Defender for Cloud Apps &lpar;Michelle Niedernhuber, M. Pankraz&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PTKMmzD49zs"><img width="100%" src="https://i.ytimg.com/vi/PTKMmzD49zs/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=PTKMmzD49zs">#243 - TOW SAP LogServ integration with Microsoft Sentinel &lpar;Hemanth Kusampudi, M. Pankraz, B. Ulke&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
