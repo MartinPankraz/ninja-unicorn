@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pQ1QN759Cjs"><img width="100%" src="https://i.ytimg.com/vi/pQ1QN759Cjs/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=pQ1QN759Cjs">#244 - TOW Updates from Build and Sapphire 2025 &lpar;Holger Bruchelt, Goran Condric&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SaAguCqRjyU"><img width="100%" src="https://i.ytimg.com/vi/SaAguCqRjyU/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=SaAguCqRjyU">#245 - TOW SAP Enterprise Threat Detection and Microsoft Sentinel &lpar;Michael Schmitt, Martin Pankraz&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
