@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SaAguCqRjyU"><img width="100%" src="https://i.ytimg.com/vi/SaAguCqRjyU/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=SaAguCqRjyU">#245 - TOW SAP Enterprise Threat Detection and Microsoft Sentinel &lpar;Michael Schmitt, Martin Pankraz&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qpEkNQtLLRY"><img width="100%" src="https://i.ytimg.com/vi/qpEkNQtLLRY/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=qpEkNQtLLRY">#246 - TOW Customize Access Governance Workflows &lpar;Martin Raepple&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
