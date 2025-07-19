@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ya3Prx0w-jE"><img width="100%" src="https://i.ytimg.com/vi/Ya3Prx0w-jE/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=Ya3Prx0w-jE">#249 - TOW SAP connectivity options with Fabric &lpar;Ulrich Christ, Bartosz Jarkowski&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-qAhFK7mb7U"><img width="100%" src="https://i.ytimg.com/vi/-qAhFK7mb7U/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=-qAhFK7mb7U">#250 - TOW ABAP Copilot Grounding and MCP Bridge &lpar;Alice Vinogradova&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
