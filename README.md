@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WXvog3LBins"><img width="100%" src="https://i.ytimg.com/vi/WXvog3LBins/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=WXvog3LBins">#251 - TOW SAP Joule &amp; Microsoft Copilot &lpar;Diana Patch, Christoph Ruehle&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RHDkuWmioEY"><img width="100%" src="https://i.ytimg.com/vi/RHDkuWmioEY/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=RHDkuWmioEY">#252 - TOW Autonomous Agents with Copilot Studio &lpar;Robin Rosengrün&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
