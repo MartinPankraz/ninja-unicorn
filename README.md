@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mvwoWKpv59I"><img width="100%" src="https://i.ytimg.com/vi/mvwoWKpv59I/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=mvwoWKpv59I">#269 - ToW MCP with BTP - AI Data Enabler &lpar;Wouter Lemaire, Tom Cenens, Marian Zeis&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IaZ7LmK5WfE"><img width="100%" src="https://i.ytimg.com/vi/IaZ7LmK5WfE/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=IaZ7LmK5WfE">#270 - TOW Azure Central Point of Connectivity and Advanced Threat Mitigation &lpar;Buyruk, Bseeu&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
