@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tYgwSL7Jxd4"><img width="100%" src="https://i.ytimg.com/vi/tYgwSL7Jxd4/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=tYgwSL7Jxd4">#271 - ToW SAP S/4HANA Journey on Azure  &lpar;Abbas Ali Mir, Momin Qureshi&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vjqsyqzyCvs"><img width="100%" src="https://i.ytimg.com/vi/vjqsyqzyCvs/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=vjqsyqzyCvs">#272 - ToW Wrapping up 2025 &lpar;Jürgen Thomas&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
