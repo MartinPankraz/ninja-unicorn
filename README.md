@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tpXzy0C2Fz0"><img width="100%" src="https://i.ytimg.com/vi/tpXzy0C2Fz0/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=tpXzy0C2Fz0">#275 - ToW Identity management and authentication for SAP &lpar;Cameron Gardiner, Martin Raepple&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CbUDRgEO0yI"><img width="100%" src="https://i.ytimg.com/vi/CbUDRgEO0yI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=CbUDRgEO0yI">#276 - ToW Exploring SAP RPT-1 &lpar;Amit Lal&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
