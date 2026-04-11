@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v8Ma2V_Jl5U"><img width="100%" src="https://i.ytimg.com/vi/v8Ma2V_Jl5U/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=v8Ma2V_Jl5U">#283 - ToW AI with SAP Supply Chain at Microsoft &lpar;Alex Bitiukov, Ryan Murphy&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zuZ6IDRNSHs"><img width="100%" src="https://i.ytimg.com/vi/zuZ6IDRNSHs/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=zuZ6IDRNSHs">#284 - ToW Data Governance and Hybrid Cloud Flexibility &lpar;Moaz Mirza&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
