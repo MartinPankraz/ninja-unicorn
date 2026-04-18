@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zuZ6IDRNSHs"><img width="100%" src="https://i.ytimg.com/vi/zuZ6IDRNSHs/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=zuZ6IDRNSHs">#284 - ToW Data Governance and Hybrid Cloud Flexibility &lpar;Moaz Mirza&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HKx59C3REI0"><img width="100%" src="https://i.ytimg.com/vi/HKx59C3REI0/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=HKx59C3REI0">#285 - ToW SAP Integration Suite, AI, MCP and Sentinel &lpar;Martin Pankraz, Jannis Maier&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
