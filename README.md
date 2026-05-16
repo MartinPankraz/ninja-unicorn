@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PPtb9kI2LyA"><img width="100%" src="https://i.ytimg.com/vi/PPtb9kI2LyA/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=PPtb9kI2LyA">Unlock Insights from SAP Datasphere with Fabric Real-Time Intelligence &lpar;Ulrich Christ, Minni Walia&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=X8G3uRk3Peg"><img width="100%" src="https://i.ytimg.com/vi/X8G3uRk3Peg/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=X8G3uRk3Peg">Augmented Network Security via Azure Firewall and App Gateway  &lpar;Davis, Davis, Nautiyal, Nautiyal&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
