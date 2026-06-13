@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4QFEA8SBZ1I"><img width="100%" src="https://i.ytimg.com/vi/4QFEA8SBZ1I/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=4QFEA8SBZ1I">#292 - TOW ABAP development with Arc-1 &lpar;Marian Zeis&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qPTvG6S2Zuw"><img width="100%" src="https://i.ytimg.com/vi/qPTvG6S2Zuw/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=qPTvG6S2Zuw">#293 - TOW SAP integration to Microsoft Fabric with asapio &lpar;Jakob Vogelsang &rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
