@@ -13,6 +13,6 @@ author:
 
 comments: false
 
-pin: false
+pin: true
 ---
 Welcome to the landing page of this blog series on the SAP LogServ solution in Microsoft Sentinel. Find all the things you always wanted to know and more.

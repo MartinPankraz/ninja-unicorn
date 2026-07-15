@@ -13,6 +13,6 @@ author:
 
 comments: false
 
-pin: true
+pin: false
 ---
 The SAP CDC connector, which is part of the Azure Data Factory and Azure Synapse solutions, provides you with a simple and efficient way to access information that is most valuable to your organization. With its ability to extract data using a wide range of source objects, the SAP CDC connector makes it easy for businesses to extract and process SAP data making it a valuable source of information for analytics.
