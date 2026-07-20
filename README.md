@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FhpVlxqnops"><img width="100%" src="https://i.ytimg.com/vi/FhpVlxqnops/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=FhpVlxqnops">#296 - TOW Update on Joule &amp; Copilot &lpar;Angel Zhu, Chris Shannon&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1m12OVONavA"><img width="100%" src="https://i.ytimg.com/vi/1m12OVONavA/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=1m12OVONavA">Connect Copilot Studio to the new MCP Gateway on SAP Integration Suite &lpar;Star Wars API Demo&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
