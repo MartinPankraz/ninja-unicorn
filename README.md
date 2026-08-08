@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x64gVHRdVMQ"><img width="100%" src="https://i.ytimg.com/vi/x64gVHRdVMQ/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=x64gVHRdVMQ">Copilot Studio &amp; SAP: Single Sign-On with MCP Gateway with SAP Identity Authentication &amp; Copilot</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kxuPDjUct7M"><img width="100%" src="https://i.ytimg.com/vi/kxuPDjUct7M/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=kxuPDjUct7M">#299 - Updates on Business Process Solutions &lpar;Bartosz Jarkowski&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
