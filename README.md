@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=l3l1Kj5yOfY"><img width="100%" src="https://i.ytimg.com/vi/l3l1Kj5yOfY/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=l3l1Kj5yOfY">#303 - ASUG on SAP, AI, and the Autonomous Enterprise &lpar;Geoff Scott&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MQJ4MjBLU3Y"><img width="100%" src="https://i.ytimg.com/vi/MQJ4MjBLU3Y/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=MQJ4MjBLU3Y">#304 - SAC add-in for Microosft Excel &lpar;Jean Bigonnet&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
