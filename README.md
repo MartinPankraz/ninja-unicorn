@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7VFs8YSvSOc"><img width="100%" src="https://i.ytimg.com/vi/7VFs8YSvSOc/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=7VFs8YSvSOc">#306 - Workload identity-based authentication for SAP SuccessFactors &lpar;Chetan Desai&rpar; | SAP on Azure</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x46VFKTUu_4"><img width="100%" src="https://i.ytimg.com/vi/x46VFKTUu_4/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=x46VFKTUu_4">Power Automate &amp; SAP: Single Sign-On with SAP OData Connector &amp; Generic OAuth</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
