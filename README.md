@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UylTZOBcT-Q"><img width="100%" src="https://i.ytimg.com/vi/UylTZOBcT-Q/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=UylTZOBcT-Q">#309 - Hybrid Integrations with SAP Integration Suite on Azure &lpar;Shilpa Vij, Jannis Maier, M Pankraz&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N2MkQuJeKuA"><img width="100%" src="https://i.ytimg.com/vi/N2MkQuJeKuA/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=N2MkQuJeKuA">#310 - SAP LeanIX Assistant in Copilot &lpar;Michael Sukachev&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
