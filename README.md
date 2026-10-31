@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N2MkQuJeKuA"><img width="100%" src="https://i.ytimg.com/vi/N2MkQuJeKuA/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=N2MkQuJeKuA">#310 - SAP LeanIX Assistant in Copilot &lpar;Michael Sukachev&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YvQdfsioBwo"><img width="100%" src="https://i.ytimg.com/vi/YvQdfsioBwo/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=YvQdfsioBwo">#311 - Open Steamgate - taking ABAP Development Offstack &lpar;Alice Vinogradova&rpar; | SAP on Azure Video</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
