@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=q-hg4Xq1oFg"><img width="100%" src="https://i.ytimg.com/vi/q-hg4Xq1oFg/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=q-hg4Xq1oFg">#301 - Azure Failure Prediction and Detection &lpar;Andrew Boyd, Ayberk Ozturk, Ronit Sharma&rpar;</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yPASdkea0dI"><img width="100%" src="https://i.ytimg.com/vi/yPASdkea0dI/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=yPASdkea0dI">#312 - ABAP Cloud SDK for Azure &lpar;Divya Balakrishna&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
