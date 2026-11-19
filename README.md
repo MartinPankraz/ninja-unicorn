@@ -88,8 +88,8 @@ YouTube is of course one source for collecting information. There are two format
 
 Latest edition:
 
-<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8fxuzIQoG8w"><img width="100%" src="https://i.ytimg.com/vi/8fxuzIQoG8w/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=8fxuzIQoG8w">#313 - Integration Suite: MCP Gateway &lpar;Dhawal Joshi&rpar; | SAP on Azure Video Podcast</a></td></tr></table><!-- YOUTUBESOA:END -->
+<!-- YOUTUBESOA:START --><table><tr><td><a href="https://www.youtube.com/watch?v=C4ap7JSc2rM"><img width="100%" src="https://i.ytimg.com/vi/C4ap7JSc2rM/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=C4ap7JSc2rM">From Zero to SAP Insights: Microsoft Fabric &amp; Business Process Solutions | End-to-End Tutorial</a></td></tr></table><!-- YOUTUBESOA:END -->
 
 * Equally interesting webcast called “[myNewsWrap](https://www.youtube.com/playlist?list=PLmZLSvJAm8Fb3S4T9JWgwm0klLI8uc-ka)” on SAP + Microsoft from a developer perspective hosted by [Christian Lechner](https://people.sap.com/christian.lechner).
 
